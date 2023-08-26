@@ -198,9 +198,9 @@ PokedexDataPointerTable:
 	dw QuagsirePokedexEntry
 	dw EspeonPokedexEntry
 	dw UmbreonPokedexEntry
-	dw MurkrowPokedexEntry
+	dw CherribellPokedexEntry
 	dw SlowkingPokedexEntry
-	dw MisdreavusPokedexEntry
+	dw GasspingPokedexEntry
 	dw UnownPokedexEntry
 	dw WobbuffetPokedexEntry
 	dw GirafarigPokedexEntry
