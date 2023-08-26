@@ -26,6 +26,7 @@ AlphabeticalPokedexOrder:
 	db CHARIZARD
 	db CHARMANDER
 	db CHARMELEON
+	db CHERRIBELL
 	db CHIKORITA
 	db CHINCHOU
 	db CLEFABLE
@@ -66,6 +67,7 @@ AlphabeticalPokedexOrder:
 	db FLAREON
 	db FORRETRESS
 	db FURRET
+	db GASSPING
 	db GASTLY
 	db GENGAR
 	db GEODUDE
@@ -135,11 +137,9 @@ AlphabeticalPokedexOrder:
 	db MEW
 	db MEWTWO
 	db MILTANK
-	db MISDREAVUS
 	db MOLTRES
 	db MR__MIME
 	db MUK
-	db MURKROW
 	db NATU
 	db NIDOKING
 	db NIDOQUEEN
