@@ -199,9 +199,9 @@ EvosAttacksPointers::
 	dw QuagsireEvosAttacks
 	dw EspeonEvosAttacks
 	dw UmbreonEvosAttacks
-	dw MurkrowEvosAttacks
+	dw CherribellEvosAttacks
 	dw SlowkingEvosAttacks
-	dw MisdreavusEvosAttacks
+	dw GasspingEvosAttacks
 	dw UnownEvosAttacks
 	dw WobbuffetEvosAttacks
 	dw GirafarigEvosAttacks
