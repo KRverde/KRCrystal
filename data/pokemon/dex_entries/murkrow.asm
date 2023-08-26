@@ -1,7 +1,7 @@
 	db "BELL FLOWER@" ; species name
 	dw 203, 100 ; height, weight
 
-	db   "On dawn's rise"
+	db   "At the rise of dawn"
 	next "it dances in"
 	next "the bright light"
 
