@@ -1,10 +1,10 @@
-	db "SCREECH@" ; species name
-	dw 204, 20 ; height, weight
+	db "GAS GIANT@" ; species name
+	dw 411, 200 ; height, weight
 
-	db   "It loves to watch"
-	next "people it's scar-"
-	next "ed. It frightens"
+	db   "Its body has lowered"
+	next "in density, causing"
+	next "it to expand greatly."
 
-	page "them by screaming"
-	next "loudly or appear-"
-	next "ing suddenly.@"
+	page "It seems to have"
+	next "its own small"
+	next "gravitational force.@"
