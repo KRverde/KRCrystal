@@ -1,10 +1,10 @@
-	db "DARKNESS@" ; species name
-	dw 108, 50 ; height, weight
+	db "BELL FLOWER@" ; species name
+	dw 203, 100 ; height, weight
 
-	db   "It hides any shiny"
-	next "object it finds in"
-	next "a secret location."
+	db   "On dawn's rise"
+	next "it dances in"
+	next "the bright light"
 
-	page "MURKROW and"
-	next "MEOWTH loot one"
-	next "another's stashes.@"
+	page "Alongside BELLOSSOM."
+	next "This dance brings"
+	next "healthy crops.@"
