@@ -1,10 +1,10 @@
 	db "BELL FLOWER@" ; species name
 	dw 203, 100 ; height, weight
 
-	db   "At the rise of dawn"
-	next "it dances in"
-	next "the bright light"
+	db   "It lures in prey"
+	next "with its cute"
+	next "appearance and"
 
-	page "Alongside BELLOSSOM."
-	next "This dance brings"
-	next "healthy crops.@"
+	page "quickly incapacitates"
+	next "them before consuming"
+	next "the prey whole.@"
