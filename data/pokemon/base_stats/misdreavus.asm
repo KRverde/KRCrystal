@@ -1,6 +1,6 @@
 	db GASSPING ; 200
 
-	db  65,  90, 120,  60,  85,  70
+	db  75,  95, 130,  65,  95,  80
 	;   hp  atk  def  spd  sat  sdf
 
 	db POISON, POISON ; type
