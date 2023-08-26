@@ -925,6 +925,7 @@ BellsproutEvosAttacks:
 
 WeepinbellEvosAttacks:
 	db EVOLVE_ITEM, LEAF_STONE, VICTREEBEL
+	db EVOLVE_ITEM, SUN_STONE, CHERRIBELL
 	db 0 ; no more evolutions
 	db 1, VINE_WHIP
 	db 1, GROWTH
@@ -1488,6 +1489,7 @@ KoffingEvosAttacks:
 	db 0 ; no more level-up moves
 
 WeezingEvosAttacks:
+	db EVOLVE_ITEM, MOON_STONE, GASSPING
 	db 0 ; no more evolutions
 	db 1, POISON_GAS
 	db 1, TACKLE
@@ -2668,14 +2670,14 @@ UmbreonEvosAttacks:
 	db 52, MOONLIGHT
 	db 0 ; no more level-up moves
 
-MurkrowEvosAttacks:
+CherribellEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, PECK
-	db 11, PURSUIT
-	db 16, HAZE
-	db 26, NIGHT_SHADE
-	db 31, FAINT_ATTACK
-	db 41, MEAN_LOOK
+	db 1, VINE_WHIP
+	db 1, GROWTH
+	db 1, WRAP
+	db 1, RAZOR_LEAF
+	db 42, PETAL_DANCE
+	db 54, SOLAR_BEAM
 	db 0 ; no more level-up moves
 
 SlowkingEvosAttacks:
@@ -2691,16 +2693,13 @@ SlowkingEvosAttacks:
 	db 48, PSYCHIC_M
 	db 0 ; no more level-up moves
 
-MisdreavusEvosAttacks:
+GasspingEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, GROWL
-	db 1, PSYWAVE
-	db 6, SPITE
-	db 12, CONFUSE_RAY
-	db 19, MEAN_LOOK
-	db 27, PSYBEAM
-	db 36, PAIN_SPLIT
-	db 46, PERISH_SONG
+	db 1, POISON_GAS
+	db 1, TACKLE
+	db 1, SMOG
+	db 1, SELFDESTRUCT
+	db 51, SLUDGE_BOMB
 	db 0 ; no more level-up moves
 
 UnownEvosAttacks:
