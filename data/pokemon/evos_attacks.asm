@@ -2676,8 +2676,9 @@ CherribellEvosAttacks:
 	db 1, GROWTH
 	db 1, WRAP
 	db 1, RAZOR_LEAF
-	db 42, PETAL_DANCE
-	db 54, SOLAR_BEAM
+	db 42, BITE
+	db 47, PETAL_DANCE
+	db 54, CRUNCH
 	db 0 ; no more level-up moves
 
 SlowkingEvosAttacks:
@@ -2700,6 +2701,7 @@ GasspingEvosAttacks:
 	db 1, SMOG
 	db 1, SELFDESTRUCT
 	db 51, SLUDGE_BOMB
+	db 58, PSYCHIC_M
 	db 0 ; no more level-up moves
 
 UnownEvosAttacks:
