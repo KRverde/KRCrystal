@@ -1,5 +1,5 @@
 	db "BALL@" ; species name
-	dw 411, 206.8 ; height, weight
+	dw 411, 2068 ; height, weight
 
 	db   "Unparalled in speed,"
 	next "It is said to"
