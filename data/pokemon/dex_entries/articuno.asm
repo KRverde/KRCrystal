@@ -1,10 +1,10 @@
-	db "FREEZE@" ; species name
-	dw 507, 1220 ; height, weight
+	db "GREATHORN@" ; species name
+	dw 511, 269 ; height, weight
 
-	db   "Legendary bird"
-	next "#MON. As it"
-	next "flies through the"
+	db   "Its body and arms"
+	next "have become much"
+	next "sturdier than that of"
 
-	page "sky, it cools the"
-	next "air, causing snow"
-	next "to fall.@"
+	page "HERACROSS. It is nearly"
+	next "three times as powerful"
+	next "in strength.@"
