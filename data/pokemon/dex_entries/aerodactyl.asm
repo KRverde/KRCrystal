@@ -1,10 +1,10 @@
 	db "FOSSIL@" ; species name
 	dw 511, 1300 ; height, weight
 
-	db   "In prehistoric"
-	next "times, this"
-	next "#MON flew"
+	db   "It dwells in caves"
+	next "after its old"
+	next "habitat was occupied."
 
-	page "freely and"
-	next "fearlessly through"
-	next "the skies.@"
+	page "Eating Rock #MON"
+	next "allowed it to restore"
+	next "dormant genes.@"
