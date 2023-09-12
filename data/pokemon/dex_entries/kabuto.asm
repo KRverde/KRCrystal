@@ -1,10 +1,10 @@
 	db "SHELLFISH@" ; species name
 	dw 108, 250 ; height, weight
 
-	db   "Three hundred"
-	next "million years ago,"
-	next "it hid on the sea"
+	db   "It was released"
+	next "into the environment"
+	next "after being revived"
 
-	page "floor. It also has"
-	next "eyes on its back"
-	next "that glow.@"
+	page "causing changes to"
+	next "its physiology,"
+	next "such as a new tail.@"
