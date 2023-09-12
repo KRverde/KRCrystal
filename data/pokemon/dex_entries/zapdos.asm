@@ -1,10 +1,10 @@
-	db "ELECTRIC@" ; species name
-	dw 503, 1160 ; height, weight
+	db "BALL@" ; species name
+	dw 411, 206.8 ; height, weight
 
-	db   "Legendary bird"
-	next "#MON. They say"
-	next "lightning caused"
+	db   "Unparalled in speed,"
+	next "It is said to"
+	next "originate from"
 
-	page "by the flapping of"
-	next "its wings causes"
-	next "summer storms.@"
+	page "ELECTRODE that are"
+	next "exposed to intense"
+	next "magnetic fields.@"
