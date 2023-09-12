@@ -1,10 +1,10 @@
 	db "SPIRAL@" ; species name
 	dw 104, 170 ; height, weight
 
-	db   "In prehistoric"
-	next "times, it swam on"
-	next "the sea floor,"
+	db   "New predators"
+	next "caused its shell"
+	next "to harden to"
 
-	page "eating plankton."
-	next "Its fossils are"
-	next "sometimes found.@"
+	page "steel-like levels."
+	next "It eats plankton"
+	next "off the seafloor.@"
