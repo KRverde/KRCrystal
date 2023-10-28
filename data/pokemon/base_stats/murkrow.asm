@@ -1,6 +1,6 @@
 	db CHERRIBELL ; 198
 
-	db  80, 60,  65,  70, 105,  100
+	db  80, 70,  65,  70, 105,  100
 	;   hp  atk  def  spd  sat  sdf
 
 	db GRASS, DARK ; type
