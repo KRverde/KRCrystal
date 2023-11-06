@@ -397,12 +397,12 @@ PokemonPicPointers::
 	dba_pic EspeonBackpic
 	dba_pic UmbreonFrontpic
 	dba_pic UmbreonBackpic
-	dba_pic CherribellFrontpic
-	dba_pic CherribellBackpic
+	dba_pic MurkrowFrontpic
+	dba_pic MurkrowBackpic
 	dba_pic SlowkingFrontpic
 	dba_pic SlowkingBackpic
-	dba_pic GasspingFrontpic
-	dba_pic GasspingBackpic
+	dba_pic MisdreavusFrontpic
+	dba_pic MisdreavusBackpic
 
 	; Unown pics have their own table. See UnownPicPointers
 	dbw -1, -1
