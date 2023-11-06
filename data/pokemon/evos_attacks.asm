@@ -1361,6 +1361,7 @@ VoltorbEvosAttacks:
 	db 0 ; no more level-up moves
 
 ElectrodeEvosAttacks:
+	db EVOLVE_ITEM, THUNDER_STONE, LECTROLITE
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, SCREECH
@@ -1947,40 +1948,51 @@ SnorlaxEvosAttacks:
 	db 57, HYPER_BEAM
 	db 0 ; no more level-up moves
 
-ArticunoEvosAttacks:
+HerculashEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, GUST
-	db 1, POWDER_SNOW
-	db 13, MIST
-	db 25, AGILITY
-	db 37, MIND_READER
-	db 49, ICE_BEAM
-	db 61, REFLECT
-	db 73, BLIZZARD
+	db 1, TACKLE
+	db 1, LEER
+	db 10, HORN_ATTACK
+	db 16, ENDURE
+	db 23, FURY_ATTACK
+	db 31, COUNTER
+	db 39, TAKE_DOWN
+	db 48, REVERSAL
+	db 58, MEGAHORN
+	db 63, CROSS_CHOP
 	db 0 ; no more level-up moves
 
-ZapdosEvosAttacks:
+LectroliteEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, PECK
-	db 1, THUNDERSHOCK
-	db 13, THUNDER_WAVE
-	db 25, AGILITY
-	db 37, DETECT
-	db 49, DRILL_PECK
-	db 61, LIGHT_SCREEN
-	db 73, THUNDER
+	db 1, TACKLE
+	db 1, SCREECH
+	db 1, SONICBOOM
+	db 1, SELFDESTRUCT
+	db 9, SCREECH
+	db 17, SONICBOOM
+	db 23, SELFDESTRUCT
+	db 29, ROLLOUT
+	db 34, LIGHT_SCREEN
+	db 40, SWIFT
+	db 44, EXPLOSION
+	db 48, MIRROR_COAT
+	db 53, THUNDERBOLT
+	db 65, THUNDER
 	db 0 ; no more level-up moves
 
-MoltresEvosAttacks:
+WhelkanoEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, WING_ATTACK
+	db 1, SMOG
 	db 1, EMBER
-	db 13, FIRE_SPIN
-	db 25, AGILITY
-	db 37, ENDURE
-	db 49, FLAMETHROWER
-	db 61, SAFEGUARD
-	db 73, SKY_ATTACK
+	db 1, ROCK_THROW
+	db 8, EMBER
+	db 15, ROCK_THROW
+	db 22, HARDEN
+	db 29, AMNESIA
+	db 36, FLAMETHROWER
+	db 48, ROCK_SLIDE
+	db 60, BODY_SLAM
+	db 70, FIRE_BLAST
 	db 0 ; no more level-up moves
 
 DratiniEvosAttacks:
@@ -2861,6 +2873,7 @@ ShuckleEvosAttacks:
 	db 0 ; no more level-up moves
 
 HeracrossEvosAttacks:
+	db EVOLVE_LEVEL, 55, HERCULASH
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, LEER
@@ -2930,6 +2943,7 @@ SlugmaEvosAttacks:
 	db 0 ; no more level-up moves
 
 MagcargoEvosAttacks:
+	db EVOLVE_ITEM, FIRE_STONE, WHELKANO
 	db 0 ; no more evolutions
 	db 1, SMOG
 	db 1, EMBER
