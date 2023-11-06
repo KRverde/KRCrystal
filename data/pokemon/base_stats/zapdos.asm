@@ -1,4 +1,4 @@
-	db ELECTROLITE ; 145
+	db LECTROLITE ; 145
 
 	db  60,  70,  70, 160, 100,  80
 	;   hp  atk  def  spd  sat  sdf
