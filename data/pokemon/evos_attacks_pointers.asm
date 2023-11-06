@@ -145,9 +145,9 @@ EvosAttacksPointers::
 	dw KabutopsEvosAttacks
 	dw AerodactylEvosAttacks
 	dw SnorlaxEvosAttacks
-	dw ArticunoEvosAttacks
-	dw ZapdosEvosAttacks
-	dw MoltresEvosAttacks
+	dw HerculashEvosAttacks
+	dw LectroliteEvosAttacks
+	dw WhelkanoEvosAttacks
 	dw DratiniEvosAttacks
 	dw DragonairEvosAttacks
 	dw DragoniteEvosAttacks
