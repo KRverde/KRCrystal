@@ -1,4 +1,4 @@
-	db CHERRIBELL ; 198
+	db BELLRAUNE ; 198
 
 	db  80, 70,  65,  70, 105,  100
 	;   hp  atk  def  spd  sat  sdf
