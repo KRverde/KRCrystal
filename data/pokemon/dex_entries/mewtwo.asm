@@ -1,10 +1,10 @@
-	db "GENETIC@" ; species name
-	dw 607, 2690 ; height, weight
+	db "SERPENT@" ; species name
+	dw 1407, 2140 ; height, weight
 
-	db   "Said to rest qui-"
-	next "etly in an"
-	next "undiscovered cave,"
+	db   "This #MON was"
+	next "worshipped as"
+	next "a deity in an"
 
-	page "this #MON was"
-	next "created solely for"
-	next "battling.@"
+	page "ancient civi-"
+	next "lization long"
+	next "ago.@"
