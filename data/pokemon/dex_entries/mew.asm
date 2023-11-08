@@ -1,10 +1,10 @@
-	db "NEW SPECIE@" ; species name
-	dw 104, 90 ; height, weight
+	db "SEA LION@" ; species name
+	dw 807, 4646 ; height, weight
 
-	db   "Because it can"
-	next "learn any move,"
-	next "some people began"
+	db   "Its long horn is"
+	next "not used as a we-"
+	next "apon but as an"
 
-	page "research to see if"
-	next "it is the ancestor"
-	next "of all #MON.@"
+	page "instrument by"
+	next "which to sense"
+	next "nearby friends.@"
