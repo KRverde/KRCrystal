@@ -197,7 +197,7 @@ PokemonNames::
 	db "QUAGSIRE@@"
 	db "ESPEON@@@@"
 	db "UMBREON@@@"
-	db "CHERRIBELL"
+	db "BELLRAUNE@"
 	db "SLOWKING@@"
 	db "GASSPING@@"
 	db "UNOWN@@@@@"
