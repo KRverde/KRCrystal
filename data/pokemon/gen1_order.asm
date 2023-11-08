@@ -72,9 +72,9 @@ Pokered_MonIndices:
 	db DODUO
 	db POLIWAG
 	db JYNX
-	db MOLTRES
-	db ARTICUNO
-	db ZAPDOS
+	db WHELKANO
+	db HERCULASH
+	db LECTROLITE
 	db DITTO
 	db MEOWTH
 	db KRABBY
@@ -237,7 +237,7 @@ Pokered_MonIndices:
 	db QUAGSIRE
 	db ESPEON
 	db UMBREON
-	db CHERRIBELL
+	db BELLRAUNE
 	db SLOWKING
 	db GASSPING
 	db UNOWN
