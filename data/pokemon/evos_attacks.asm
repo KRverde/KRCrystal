@@ -925,7 +925,7 @@ BellsproutEvosAttacks:
 
 WeepinbellEvosAttacks:
 	db EVOLVE_ITEM, LEAF_STONE, VICTREEBEL
-	db EVOLVE_ITEM, SUN_STONE, CHERRIBELL
+	db EVOLVE_ITEM, SUN_STONE, BELLRAUNE
 	db 0 ; no more evolutions
 	db 1, VINE_WHIP
 	db 1, GROWTH
@@ -2682,7 +2682,7 @@ UmbreonEvosAttacks:
 	db 52, MOONLIGHT
 	db 0 ; no more level-up moves
 
-CherribellEvosAttacks:
+BellrauneEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, VINE_WHIP
 	db 1, GROWTH
