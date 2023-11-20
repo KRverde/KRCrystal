@@ -20,7 +20,7 @@ Pokered_MonIndices:
 	db RHYHORN
 	db LAPRAS
 	db ARCANINE
-	db MEW
+	db NORWHOL
 	db GYARADOS
 	db SHELLDER
 	db TENTACOOL
@@ -130,7 +130,7 @@ Pokered_MonIndices:
 	db GOLDUCK
 	db HYPNO
 	db GOLBAT
-	db MEWTWO
+	db T_NEPRES
 	db SNORLAX
 	db MAGIKARP
 	db PORYGON2 ; MISSINGNO.
