@@ -151,8 +151,8 @@ EvosAttacksPointers::
 	dw DratiniEvosAttacks
 	dw DragonairEvosAttacks
 	dw DragoniteEvosAttacks
-	dw MewtwoEvosAttacks
-	dw MewEvosAttacks
+	dw TNepresEvosAttacks
+	dw NorwholEvosAttacks
 	dw ChikoritaEvosAttacks
 	dw BayleefEvosAttacks
 	dw MeganiumEvosAttacks
