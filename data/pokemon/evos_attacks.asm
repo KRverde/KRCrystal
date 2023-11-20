@@ -328,6 +328,7 @@ EkansEvosAttacks:
 	db 0 ; no more level-up moves
 
 ArbokEvosAttacks:
+	db EVOLVE_LEVEL, 45, T_NEPRES
 	db 0 ; no more evolutions
 	db 1, WRAP
 	db 1, LEER
@@ -1168,6 +1169,7 @@ SeelEvosAttacks:
 	db 0 ; no more level-up moves
 
 DewgongEvosAttacks:
+	db EVOLVE_ITEM, WATER_STONE, NORWHOL
 	db 0 ; no more evolutions
 	db 1, HEADBUTT
 	db 1, GROWL
@@ -2044,29 +2046,31 @@ DragoniteEvosAttacks:
 	db 75, HYPER_BEAM
 	db 0 ; no more level-up moves
 
-MewtwoEvosAttacks:
+TNepresEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, CONFUSION
-	db 1, DISABLE
-	db 11, BARRIER
-	db 22, SWIFT
-	db 33, PSYCH_UP
-	db 44, FUTURE_SIGHT
-	db 55, MIST
-	db 66, PSYCHIC_M
-	db 77, AMNESIA
-	db 88, RECOVER
-	db 99, SAFEGUARD
+	db 1, WRAP
+	db 1, LEER
+	db 1, POISON_STING
+	db 1, BITE
+	db 9, POISON_STING
+	db 15, BITE
+	db 25, GLARE
+	db 33, SCREECH
+	db 43, ACID
+	db 51, HAZE
+	db 60, DRAGONBREATH
 	db 0 ; no more level-up moves
 
-MewEvosAttacks:
+NorwholEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, POUND
-	db 10, TRANSFORM
-	db 20, MEGA_PUNCH
-	db 30, METRONOME
-	db 40, PSYCHIC_M
-	db 50, ANCIENTPOWER
+	db 1, HEADBUTT
+	db 1, GROWL
+	db 1, AURORA_BEAM
+	db 1, REST
+	db 1, TAKE_DOWN
+	db 47, ICE_BEAM
+	db 56, SAFEGUARD
+	db 65, BLIZZARD
 	db 0 ; no more level-up moves
 
 ChikoritaEvosAttacks:
