@@ -53,6 +53,7 @@ NewPokedexOrder:
 	db SANDSLASH
 	db EKANS
 	db ARBOK
+	db T_NEPRES
 	db DUNSPARCE
 	db MAREEP
 	db FLAAFFY
@@ -116,6 +117,7 @@ NewPokedexOrder:
 	db SCIZOR
 	db PINSIR
 	db HERACROSS
+	db HERCULASH
 	db KOFFING
 	db WEEZING
 	db GASSPING
@@ -125,6 +127,7 @@ NewPokedexOrder:
 	db MAGNETON
 	db VOLTORB
 	db ELECTRODE
+	db LECTROLITE
 	db AIPOM
 	db SNUBBULL
 	db GRANBULL
@@ -181,6 +184,7 @@ NewPokedexOrder:
 	db LANTURN
 	db SEEL
 	db DEWGONG
+	db NORWHOL
 	db LICKITUNG
 	db TANGELA
 	db EEVEE
@@ -215,6 +219,7 @@ NewPokedexOrder:
 	db HOUNDOOM
 	db SLUGMA
 	db MAGCARGO
+	db WHELKANO
 	db SNEASEL
 	db PORYGON
 	db PORYGON2
@@ -236,9 +241,6 @@ NewPokedexOrder:
 	db SQUIRTLE
 	db WARTORTLE
 	db BLASTOISE
-	db ARTICUNO
-	db ZAPDOS
-	db MOLTRES
 	db RAIKOU
 	db ENTEI
 	db SUICUNE
@@ -250,7 +252,5 @@ NewPokedexOrder:
 	db TYRANITAR
 	db LUGIA
 	db HO_OH
-	db MEWTWO
-	db MEW
 	db CELEBI
 	assert_table_length NUM_POKEMON
