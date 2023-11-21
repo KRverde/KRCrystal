@@ -144,14 +144,14 @@ PokedexDataPointerTable:
 	dw KabutopsPokedexEntry
 	dw AerodactylPokedexEntry
 	dw SnorlaxPokedexEntry
-	dw ArticunoPokedexEntry
-	dw ZapdosPokedexEntry
-	dw MoltresPokedexEntry
+	dw HerculashPokedexEntry
+	dw LectrolitePokedexEntry
+	dw WhelkanoPokedexEntry
 	dw DratiniPokedexEntry
 	dw DragonairPokedexEntry
 	dw DragonitePokedexEntry
-	dw MewtwoPokedexEntry
-	dw MewPokedexEntry
+	dw TNepresPokedexEntry
+	dw NorwholPokedexEntry
 	dw ChikoritaPokedexEntry
 	dw BayleefPokedexEntry
 	dw MeganiumPokedexEntry
@@ -198,7 +198,7 @@ PokedexDataPointerTable:
 	dw QuagsirePokedexEntry
 	dw EspeonPokedexEntry
 	dw UmbreonPokedexEntry
-	dw CherribellPokedexEntry
+	dw BellraunePokedexEntry
 	dw SlowkingPokedexEntry
 	dw GasspingPokedexEntry
 	dw UnownPokedexEntry
