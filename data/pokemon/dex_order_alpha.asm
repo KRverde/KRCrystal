@@ -10,7 +10,6 @@ AlphabeticalPokedexOrder:
 	db ARBOK
 	db ARCANINE
 	db ARIADOS
-	db ARTICUNO
 	db AZUMARILL
 	db BAYLEEF
 	db BEEDRILL
@@ -85,6 +84,7 @@ AlphabeticalPokedexOrder:
 	db GYARADOS
 	db HAUNTER
 	db HERACROSS
+	db HERCULASH
 	db HITMONCHAN
 	db HITMONLEE
 	db HITMONTOP
@@ -113,6 +113,7 @@ AlphabeticalPokedexOrder:
 	db LANTURN
 	db LAPRAS
 	db LARVITAR
+	db LECTROLITE
 	db LEDIAN
 	db LEDYBA
 	db LICKITUNG
@@ -134,10 +135,7 @@ AlphabeticalPokedexOrder:
 	db MEGANIUM
 	db MEOWTH
 	db METAPOD
-	db MEW
-	db MEWTWO
 	db MILTANK
-	db MOLTRES
 	db MR__MIME
 	db MUK
 	db NATU
@@ -149,6 +147,7 @@ AlphabeticalPokedexOrder:
 	db NIDORINO
 	db NINETALES
 	db NOCTOWL
+	db NORWHOL
 	db OCTILLERY
 	db ODDISH
 	db OMANYTE
@@ -220,6 +219,7 @@ AlphabeticalPokedexOrder:
 	db SUNFLORA
 	db SUNKERN
 	db SWINUB
+	db T_NEPRES
 	db TANGELA
 	db TAUROS
 	db TEDDIURSA
@@ -246,11 +246,11 @@ AlphabeticalPokedexOrder:
 	db WEEDLE
 	db WEEPINBELL
 	db WEEZING
+	db WHELKANO
 	db WIGGLYTUFF
 	db WOBBUFFET
 	db WOOPER
 	db XATU
 	db YANMA
-	db ZAPDOS
 	db ZUBAT
 	assert_table_length NUM_POKEMON
