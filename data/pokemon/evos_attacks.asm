@@ -607,6 +607,7 @@ ParasEvosAttacks:
 	db 0 ; no more level-up moves
 
 ParasectEvosAttacks:
+	db EVOLVE_LEVEL, 42, PERISHROOM
 	db 0 ; no more evolutions
 	db 1, SCRATCH
 	db 1, STUN_SPORE
@@ -835,7 +836,7 @@ AbraEvosAttacks:
 	db 0 ; no more level-up moves
 
 KadabraEvosAttacks:
-	db EVOLVE_LEVEL, 40, ALAKAZAM
+	db EVOLVE_LEVEL, 32, ALAKAZAM
 	db 0 ; no more evolutions
 	db 1, TELEPORT
 	db 1, KINESIS
@@ -879,7 +880,7 @@ MachopEvosAttacks:
 	db 0 ; no more level-up moves
 
 MachokeEvosAttacks:
-	db EVOLVE_LEVEL, 40, MACHAMP
+	db EVOLVE_LEVEL, 38, MACHAMP
 	db 0 ; no more evolutions
 	db 1, LOW_KICK
 	db 1, LEER
@@ -994,7 +995,7 @@ GeodudeEvosAttacks:
 	db 0 ; no more level-up moves
 
 GravelerEvosAttacks:
-	db EVOLVE_LEVEL, 40, GOLEM
+	db EVOLVE_LEVEL, 35, GOLEM
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, DEFENSE_CURL
@@ -1102,6 +1103,7 @@ MagnemiteEvosAttacks:
 	db 0 ; no more level-up moves
 
 MagnetonEvosAttacks:
+	db EVOLVE_ITEM, THUNDER_STONE, MAGNEZONE
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, THUNDERSHOCK
@@ -1249,7 +1251,7 @@ GastlyEvosAttacks:
 	db 0 ; no more level-up moves
 
 HaunterEvosAttacks:
-	db EVOLVE_LEVEL, 40, GENGAR
+	db EVOLVE_LEVEL, 35, GENGAR
 	db 0 ; no more evolutions
 	db 1, HYPNOSIS
 	db 1, LICK
@@ -1306,6 +1308,7 @@ DrowzeeEvosAttacks:
 	db 0 ; no more level-up moves
 
 HypnoEvosAttacks:
+	db EVOLVE_LEVEL, 38, DORMARE
 	db 0 ; no more evolutions
 	db 1, POUND
 	db 1, HYPNOSIS
@@ -1466,6 +1469,7 @@ HitmonchanEvosAttacks:
 	db 0 ; no more level-up moves
 
 LickitungEvosAttacks:
+	db EVOLVE_LEVEL, 33, LICKILICKY
 	db 0 ; no more evolutions
 	db 1, LICK
 	db 7, SUPERSONIC
@@ -1521,6 +1525,7 @@ RhyhornEvosAttacks:
 	db 0 ; no more level-up moves
 
 RhydonEvosAttacks:
+	db EVOLVE_ITEM, KINGS_ROCK, RHYPERIOR
 	db 0 ; no more evolutions
 	db 1, HORN_ATTACK
 	db 1, TAIL_WHIP
@@ -1551,6 +1556,7 @@ ChanseyEvosAttacks:
 	db 0 ; no more level-up moves
 
 TangelaEvosAttacks:
+	db EVOLVE_LEVEL, 33, TANGROWTH
 	db 0 ; no more evolutions
 	db 1, CONSTRICT
 	db 4, SLEEP_POWDER
@@ -1673,6 +1679,7 @@ MrMimeEvosAttacks:
 
 ScytherEvosAttacks:
 	db EVOLVE_ITEM, METAL_COAT, SCIZOR
+	db EVOLVE_ITEM, HARD_STONE, KLEAVOR
 	db 0 ; no more evolutions
 	db 1, QUICK_ATTACK
 	db 1, LEER
@@ -1703,6 +1710,7 @@ JynxEvosAttacks:
 	db 0 ; no more level-up moves
 
 ElectabuzzEvosAttacks:
+	db EVOLVE_ITEM, THUNDER_STONE, ELECTIVIRE
 	db 0 ; no more evolutions
 	db 1, QUICK_ATTACK
 	db 1, LEER
@@ -1716,6 +1724,7 @@ ElectabuzzEvosAttacks:
 	db 0 ; no more level-up moves
 
 MagmarEvosAttacks:
+	db EVOLVE_ITEM, FIRE_STONE, MAGMORTAR
 	db 0 ; no more evolutions
 	db 1, EMBER
 	db 1, LEER
@@ -1732,6 +1741,7 @@ MagmarEvosAttacks:
 	db 0 ; no more level-up moves
 
 PinsirEvosAttacks:
+	db EVOLVE_LEVEL, 40, CLENCHIR
 	db 0 ; no more evolutions
 	db 1, VICEGRIP
 	db 7, FOCUS_ENERGY
@@ -1805,6 +1815,9 @@ EeveeEvosAttacks:
 	db EVOLVE_ITEM, SUN_STONE, ESPEON
 	db EVOLVE_HAPPINESS, TR_NITE, UMBREON
 	db EVOLVE_ITEM, MOON_STONE, UMBREON
+	db EVOLVE_ITEM, LEAF_STONE, LEAFEON
+	db EVOLVE_ITEM, NEVERMELTICE, GLACEON
+	db EVOLVE_ITEM, PINK_BOW, SYLVEON
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, TAIL_WHIP
@@ -2408,6 +2421,7 @@ TogepiEvosAttacks:
 	db 0 ; no more level-up moves
 
 TogeticEvosAttacks:
+	db EVOLVE_ITEM, PINK_BOW, TOGEKISS
 	db 0 ; no more evolutions
 	db 1, GROWL
 	db 1, CHARM
@@ -2519,6 +2533,7 @@ AzumarillEvosAttacks:
 	db 0 ; no more level-up moves
 
 SudowoodoEvosAttacks:
+	db EVOLVE_ITEM, HARD_STONE, LYPRESS
 	db 0 ; no more evolutions
 	db 1, ROCK_THROW
 	db 1, MIMIC
@@ -2590,6 +2605,7 @@ JumpluffEvosAttacks:
 	db 0 ; no more level-up moves
 
 AipomEvosAttacks:
+	db EVOLVE_LEVEL, 32, AMBIPOM
 	db 0 ; no more evolutions
 	db 1, SCRATCH
 	db 1, TAIL_WHIP
@@ -2624,6 +2640,7 @@ SunfloraEvosAttacks:
 	db 0 ; no more level-up moves
 
 YanmaEvosAttacks:
+	db EVOLVE_LEVEL, 33, YANMEGA
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, FORESIGHT
@@ -2779,6 +2796,7 @@ ForretressEvosAttacks:
 	db 0 ; no more level-up moves
 
 DunsparceEvosAttacks:
+	db EVOLVE_LEVEL, 32, DUDUNSPARS
 	db 0 ; no more evolutions
 	db 1, RAGE
 	db 5, DEFENSE_CURL
@@ -2790,6 +2808,7 @@ DunsparceEvosAttacks:
 	db 0 ; no more level-up moves
 
 GligarEvosAttacks:
+	db EVOLVE_HAPPINESS, TR_NITE, GLISCOR
 	db 0 ; no more evolutions
 	db 1, POISON_STING
 	db 6, SAND_ATTACK
@@ -2894,6 +2913,7 @@ HeracrossEvosAttacks:
 	db 0 ; no more level-up moves
 
 SneaselEvosAttacks:
+	db EVOLVE_HAPPINESS, TR_NITE, WEAVILE
 	db 0 ; no more evolutions
 	db 1, SCRATCH
 	db 1, LEER
@@ -2922,6 +2942,7 @@ TeddiursaEvosAttacks:
 	db 0 ; no more level-up moves
 
 UrsaringEvosAttacks:
+	db EVOLVE_ITEM, MOON_STONE, URSALUNA
 	db 0 ; no more evolutions
 	db 1, SCRATCH
 	db 1, LEER
@@ -2977,6 +2998,7 @@ SwinubEvosAttacks:
 	db 0 ; no more level-up moves
 
 PiloswineEvosAttacks:
+	db EVOLVE_ITEM, NEVERMELTICE, MAMOSWINE
 	db 0 ; no more evolutions
 	db 1, HORN_ATTACK
 	db 1, POWDER_SNOW
@@ -3121,6 +3143,7 @@ DonphanEvosAttacks:
 	db 0 ; no more level-up moves
 
 Porygon2EvosAttacks:
+	db EVOLVE_ITEM, UP_GRADE, PORYGONZ
 	db 0 ; no more evolutions
 	db 1, CONVERSION2
 	db 1, TACKLE
@@ -3135,6 +3158,7 @@ Porygon2EvosAttacks:
 	db 0 ; no more level-up moves
 
 StantlerEvosAttacks:
+	db EVOLVE_LEVEL, 31, WYRDEER
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 8, LEER
