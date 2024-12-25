@@ -3316,34 +3316,33 @@ LarvitarEvosAttacks:
 TropiusEvosAttacks:
 	db EVOLVE_ITEM, DRAGON_SCALE, TROPIPOD
 	db 0 ; no more evolutions
-	db 1, BITE
 	db 1, LEER
-	db 1, SANDSTORM
-	db 1, SCREECH
-	db 8, SANDSTORM
-	db 15, SCREECH
-	db 22, ROCK_SLIDE
-	db 29, THRASH
-	db 38, SCARY_FACE
-	db 47, CRUNCH
-	db 56, EARTHQUAKE
-	db 65, HYPER_BEAM
+	db 1, GUST
+	db 7, GROWTH
+	db 11, RAZOR_LEAF
+	db 17, STOMP
+	db 21, SWEET_SCENT
+	db 27, WHIRLWIND
+	db 31, MAGICAL_LEAF
+	db 37, BODY_SLAM
+	db 41, SOLARBEAM
+	db 47, SYNTHESIS
 	db 0 ; no more level-up moves
 
 TropipodEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, BITE
 	db 1, LEER
-	db 1, SANDSTORM
-	db 1, SCREECH
-	db 8, SANDSTORM
-	db 15, SCREECH
-	db 22, ROCK_SLIDE
-	db 29, THRASH
-	db 38, SCARY_FACE
-	db 47, CRUNCH
-	db 61, EARTHQUAKE
-	db 75, HYPER_BEAM
+	db 1, GUST
+	db 7, GROWTH
+	db 11, RAZOR_LEAF
+	db 17, STOMP
+	db 21, SWEET_SCENT
+	db 27, TWISTER
+	db 31, MAGICAL_LEAF
+	db 37, BODY_SLAM
+	db 41, SOLARBEAM
+	db 47, SYNTHESIS
+	db 54, DRAGONBREATH
 	db 0 ; no more level-up moves
 
 LugiaEvosAttacks:
