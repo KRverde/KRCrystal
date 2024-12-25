@@ -328,7 +328,7 @@ EkansEvosAttacks:
 	db 0 ; no more level-up moves
 
 ArbokEvosAttacks:
-	db EVOLVE_LEVEL, 45, T_NEPRES
+	db EVOLVE_ITEM, DRAGON_FANG, T_NEPRES
 	db 0 ; no more evolutions
 	db 1, WRAP
 	db 1, LEER
@@ -1169,7 +1169,7 @@ SeelEvosAttacks:
 	db 0 ; no more level-up moves
 
 DewgongEvosAttacks:
-	db EVOLVE_ITEM, WATER_STONE, NORWHOL
+	db EVOLVE_ITEM, NEVERMELTICE, NORWHOL
 	db 0 ; no more evolutions
 	db 1, HEADBUTT
 	db 1, GROWL
@@ -1737,10 +1737,11 @@ PinsirEvosAttacks:
 	db 7, FOCUS_ENERGY
 	db 13, BIND
 	db 19, SEISMIC_TOSS
-	db 25, HARDEN
+	db 25, FURY_CUTTER
 	db 31, GUILLOTINE
 	db 37, SUBMISSION
 	db 43, SWORDS_DANCE
+	db 55, MEGAHORN
 	db 0 ; no more level-up moves
 
 TaurosEvosAttacks:
@@ -2949,7 +2950,7 @@ SlugmaEvosAttacks:
 	db 0 ; no more level-up moves
 
 MagcargoEvosAttacks:
-	db EVOLVE_ITEM, FIRE_STONE, WHELKANO
+	db EVOLVE_ITEM, METAL_COAT, WHELKANO
 	db 0 ; no more evolutions
 	db 1, SMOG
 	db 1, EMBER
