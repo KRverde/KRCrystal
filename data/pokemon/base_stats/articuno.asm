@@ -1,6 +1,6 @@
 	db HERCULASH ; 144
 
-	db  90, 135,  95,  45,  40,  95
+	db  90, 145,  95,  45,  30,  95
 	;   hp  atk  def  spd  sat  sdf
 
 	db BUG, FIGHTING ; type
