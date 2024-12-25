@@ -162,14 +162,14 @@
 	const KABUTOPS   ; 8d
 	const AERODACTYL ; 8e
 	const SNORLAX    ; 8f
-	const ARTICUNO   ; 90
-	const ZAPDOS     ; 91
-	const MOLTRES    ; 92
+	const HERCULASH  ; 90
+	const LECTROLITE ; 91
+	const WHELKANO   ; 92
 	const DRATINI    ; 93
 	const DRAGONAIR  ; 94
 	const DRAGONITE  ; 95
-	const MEWTWO     ; 96
-	const MEW        ; 97
+	const T_NEPRES   ; 96
+	const NORWHOL    ; 97
 DEF JOHTO_POKEMON EQU const_value
 	const CHIKORITA  ; 98
 	const BAYLEEF    ; 99
@@ -217,7 +217,7 @@ DEF JOHTO_POKEMON EQU const_value
 	const QUAGSIRE   ; c3
 	const ESPEON     ; c4
 	const UMBREON    ; c5
-	const CHERRIBELL ; c6
+	const BELLRAUNE  ; c6
 	const SLOWKING   ; c7
 	const GASSPING   ; c8
 	const UNOWN      ; c9
