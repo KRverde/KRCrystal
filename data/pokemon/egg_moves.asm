@@ -316,6 +316,7 @@ PinsirEggMoves:
 LaprasEggMoves:
 	db AURORA_BEAM
 	db FORESIGHT
+	db OUTRAGE
 	db -1 ; end
 
 EeveeEggMoves:
@@ -381,6 +382,7 @@ TotodileEggMoves:
 	db ANCIENTPOWER
 	db RAZOR_WIND
 	db ROCK_SLIDE
+	db OUTRAGE
 	db -1 ; end
 
 SentretEggMoves:
