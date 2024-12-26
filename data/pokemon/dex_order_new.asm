@@ -228,7 +228,7 @@ NewPokedexOrder:
 	db WEAVILE
 	db PORYGON
 	db PORYGON2
-	db PORYGON-Z
+	db PORYGON_Z
 	db CHANSEY
 	db BLISSEY
 	db LAPRAS
