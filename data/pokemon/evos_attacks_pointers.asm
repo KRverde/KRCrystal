@@ -2,14 +2,14 @@
 
 EvosAttacksPointers::
 	table_width 2, EvosAttacksPointers
-	dw BulbasaurEvosAttacks
-	dw IvysaurEvosAttacks
+	dw LeafeonEvosAttacks
+	dw GlaceonEvosAttacks
 	dw VenusaurEvosAttacks
-	dw CharmanderEvosAttacks
-	dw CharmeleonEvosAttacks
+	dw SylveonEvosAttacks
+	dw KleavorEvosAttacks
 	dw CharizardEvosAttacks
-	dw SquirtleEvosAttacks
-	dw WartortleEvosAttacks
+	dw MagnezoneEvosAttacks
+	dw LickilickyEvosAttacks
 	dw BlastoiseEvosAttacks
 	dw CaterpieEvosAttacks
 	dw MetapodEvosAttacks
@@ -38,8 +38,8 @@ EvosAttacksPointers::
 	dw NidokingEvosAttacks
 	dw ClefairyEvosAttacks
 	dw ClefableEvosAttacks
-	dw VulpixEvosAttacks
-	dw NinetalesEvosAttacks
+	dw RhyperiorEvosAttacks
+	dw TangrowthEvosAttacks
 	dw JigglypuffEvosAttacks
 	dw WigglytuffEvosAttacks
 	dw ZubatEvosAttacks
@@ -57,8 +57,8 @@ EvosAttacksPointers::
 	dw PersianEvosAttacks
 	dw PsyduckEvosAttacks
 	dw GolduckEvosAttacks
-	dw MankeyEvosAttacks
-	dw PrimeapeEvosAttacks
+	dw ElectivireEvosAttacks
+	dw MagmortarEvosAttacks
 	dw GrowlitheEvosAttacks
 	dw ArcanineEvosAttacks
 	dw PoliwagEvosAttacks
@@ -78,15 +78,15 @@ EvosAttacksPointers::
 	dw GeodudeEvosAttacks
 	dw GravelerEvosAttacks
 	dw GolemEvosAttacks
-	dw PonytaEvosAttacks
-	dw RapidashEvosAttacks
+	dw DudunsparsEvosAttacks
+	dw PerishroomEvosAttacks
 	dw SlowpokeEvosAttacks
 	dw SlowbroEvosAttacks
 	dw MagnemiteEvosAttacks
 	dw MagnetonEvosAttacks
 	dw FarfetchDEvosAttacks
-	dw DoduoEvosAttacks
-	dw DodrioEvosAttacks
+	dw WyrdeerEvosAttacks
+	dw UrsalunaEvosAttacks
 	dw SeelEvosAttacks
 	dw DewgongEvosAttacks
 	dw GrimerEvosAttacks
@@ -105,8 +105,8 @@ EvosAttacksPointers::
 	dw ElectrodeEvosAttacks
 	dw ExeggcuteEvosAttacks
 	dw ExeggutorEvosAttacks
-	dw CuboneEvosAttacks
-	dw MarowakEvosAttacks
+	dw LypressEvosAttacks
+	dw DormareEvosAttacks
 	dw HitmonleeEvosAttacks
 	dw HitmonchanEvosAttacks
 	dw LickitungEvosAttacks
@@ -116,14 +116,14 @@ EvosAttacksPointers::
 	dw RhydonEvosAttacks
 	dw ChanseyEvosAttacks
 	dw TangelaEvosAttacks
-	dw KangaskhanEvosAttacks
+	dw ClenchirEvosAttacks
 	dw HorseaEvosAttacks
 	dw SeadraEvosAttacks
 	dw GoldeenEvosAttacks
 	dw SeakingEvosAttacks
 	dw StaryuEvosAttacks
 	dw StarmieEvosAttacks
-	dw MrMimeEvosAttacks
+	dw MamoswineEvosAttacks
 	dw ScytherEvosAttacks
 	dw JynxEvosAttacks
 	dw ElectabuzzEvosAttacks
@@ -180,9 +180,9 @@ EvosAttacksPointers::
 	dw TogeticEvosAttacks
 	dw NatuEvosAttacks
 	dw XatuEvosAttacks
-	dw MareepEvosAttacks
-	dw FlaaffyEvosAttacks
-	dw AmpharosEvosAttacks
+	dw PorygonZEvosAttacks
+	dw TogekissEvosAttacks
+	dw AmbipomEvosAttacks
 	dw BellossomEvosAttacks
 	dw MarillEvosAttacks
 	dw AzumarillEvosAttacks
@@ -204,7 +204,7 @@ EvosAttacksPointers::
 	dw GasspingEvosAttacks
 	dw UnownEvosAttacks
 	dw WobbuffetEvosAttacks
-	dw GirafarigEvosAttacks
+	dw YanmegaEvosAttacks
 	dw PinecoEvosAttacks
 	dw ForretressEvosAttacks
 	dw DunsparceEvosAttacks
@@ -224,8 +224,8 @@ EvosAttacksPointers::
 	dw SwinubEvosAttacks
 	dw PiloswineEvosAttacks
 	dw CorsolaEvosAttacks
-	dw RemoraidEvosAttacks
-	dw OctilleryEvosAttacks
+	dw GliscorEvosAttacks
+	dw WeavileEvosAttacks
 	dw DelibirdEvosAttacks
 	dw MantineEvosAttacks
 	dw SkarmoryEvosAttacks
@@ -248,8 +248,8 @@ EvosAttacksPointers::
 	dw EnteiEvosAttacks
 	dw SuicuneEvosAttacks
 	dw LarvitarEvosAttacks
-	dw PupitarEvosAttacks
-	dw TyranitarEvosAttacks
+	dw TropiusEvosAttacks
+	dw TropipodEvosAttacks
 	dw LugiaEvosAttacks
 	dw HoOhEvosAttacks
 	dw CelebiEvosAttacks
