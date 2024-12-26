@@ -1,12 +1,12 @@
 EggMovePointers::
 	table_width 2, EggMovePointers
-	dw BulbasaurEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw CharmanderEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw SquirtleEggMoves
+	dw NoEggMoves
+	dw NoEggMoves
+	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
@@ -36,7 +36,7 @@ EggMovePointers::
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw VulpixEggMoves
+	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
@@ -55,7 +55,7 @@ EggMovePointers::
 	dw NoEggMoves
 	dw PsyduckEggMoves
 	dw NoEggMoves
-	dw MankeyEggMoves
+	dw NoEggMoves
 	dw NoEggMoves
 	dw GrowlitheEggMoves
 	dw NoEggMoves
@@ -76,14 +76,14 @@ EggMovePointers::
 	dw GeodudeEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw PonytaEggMoves
+	dw NoEggMoves
 	dw NoEggMoves
 	dw SlowpokeEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
 	dw FarfetchDEggMoves
-	dw DoduoEggMoves
+	dw NoEggMoves
 	dw NoEggMoves
 	dw SeelEggMoves
 	dw NoEggMoves
@@ -103,7 +103,7 @@ EggMovePointers::
 	dw NoEggMoves
 	dw ExeggcuteEggMoves
 	dw NoEggMoves
-	dw CuboneEggMoves
+	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
@@ -114,14 +114,14 @@ EggMovePointers::
 	dw NoEggMoves
 	dw ChanseyEggMoves
 	dw TangelaEggMoves
-	dw KangaskhanEggMoves
+	dw NoEggMoves
 	dw HorseaEggMoves
 	dw NoEggMoves
 	dw GoldeenEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw MrMimeEggMoves
+	dw NoEggMoves
 	dw ScytherEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
@@ -178,7 +178,7 @@ EggMovePointers::
 	dw NoEggMoves
 	dw NatuEggMoves
 	dw NoEggMoves
-	dw MareepEggMoves
+	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
@@ -202,7 +202,7 @@ EggMovePointers::
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw GirafarigEggMoves
+	dw NoEggMoves
 	dw PinecoEggMoves
 	dw NoEggMoves
 	dw DunsparceEggMoves
@@ -222,7 +222,7 @@ EggMovePointers::
 	dw SwinubEggMoves
 	dw NoEggMoves
 	dw CorsolaEggMoves
-	dw RemoraidEggMoves
+	dw NoEggMoves
 	dw NoEggMoves
 	dw DelibirdEggMoves
 	dw MantineEggMoves
@@ -245,7 +245,7 @@ EggMovePointers::
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw LarvitarEggMoves
+	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
