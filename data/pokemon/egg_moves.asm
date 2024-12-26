@@ -10,32 +10,6 @@ SECTION "Egg Moves", ROMX
 
 INCLUDE "data/pokemon/egg_move_pointers.asm"
 
-BulbasaurEggMoves:
-	db LIGHT_SCREEN
-	db SKULL_BASH
-	db SAFEGUARD
-	db RAZOR_WIND
-	db PETAL_DANCE
-	db -1 ; end
-
-CharmanderEggMoves:
-	db BELLY_DRUM
-	db ANCIENTPOWER
-	db ROCK_SLIDE
-	db BITE
-	db OUTRAGE
-	db BEAT_UP
-	db -1 ; end
-
-SquirtleEggMoves:
-	db MIRROR_COAT
-	db HAZE
-	db MIST
-	db CONFUSION
-	db FORESIGHT
-	db FLAIL
-	db -1 ; end
-
 PidgeyEggMoves:
 	db PURSUIT
 	db FAINT_ATTACK
@@ -95,14 +69,6 @@ NidoranMEggMoves:
 	db BEAT_UP
 	db -1 ; end
 
-VulpixEggMoves:
-	db FAINT_ATTACK
-	db HYPNOSIS
-	db FLAIL
-	db SPITE
-	db DISABLE
-	db -1 ; end
-
 ZubatEggMoves:
 	db QUICK_ATTACK
 	db PURSUIT
@@ -160,15 +126,6 @@ PsyduckEggMoves:
 	db CROSS_CHOP
 	db -1 ; end
 
-MankeyEggMoves:
-	db ROCK_SLIDE
-	db FORESIGHT
-	db MEDITATE
-	db COUNTER
-	db REVERSAL
-	db BEAT_UP
-	db -1 ; end
-
 GrowlitheEggMoves:
 	db BODY_SLAM
 	db SAFEGUARD
@@ -219,15 +176,6 @@ GeodudeEggMoves:
 	db ROCK_SLIDE
 	db -1 ; end
 
-PonytaEggMoves:
-	db FLAME_WHEEL
-	db THRASH
-	db DOUBLE_KICK
-	db HYPNOSIS
-	db CHARM
-	db QUICK_ATTACK
-	db -1 ; end
-
 SlowpokeEggMoves:
 	db SAFEGUARD
 	db BELLY_DRUM
@@ -240,14 +188,6 @@ FarfetchDEggMoves:
 	db MIRROR_MOVE
 	db GUST
 	db QUICK_ATTACK
-	db FLAIL
-	db -1 ; end
-
-DoduoEggMoves:
-	db QUICK_ATTACK
-	db SUPERSONIC
-	db HAZE
-	db FAINT_ATTACK
 	db FLAIL
 	db -1 ; end
 
@@ -306,16 +246,6 @@ ExeggcuteEggMoves:
 	db ANCIENTPOWER
 	db -1 ; end
 
-CuboneEggMoves:
-	db ROCK_SLIDE
-	db ANCIENTPOWER
-	db BELLY_DRUM
-	db SCREECH
-	db SKULL_BASH
-	db PERISH_SONG
-	db SWORDS_DANCE
-	db -1 ; end
-
 LickitungEggMoves:
 	db BELLY_DRUM
 	db MAGNITUDE
@@ -354,14 +284,6 @@ TangelaEggMoves:
 	db AMNESIA
 	db -1 ; end
 
-KangaskhanEggMoves:
-	db STOMP
-	db FORESIGHT
-	db FOCUS_ENERGY
-	db SAFEGUARD
-	db DISABLE
-	db -1 ; end
-
 HorseaEggMoves:
 	db FLAIL
 	db AURORA_BEAM
@@ -375,12 +297,6 @@ GoldeenEggMoves:
 	db PSYBEAM
 	db HAZE
 	db HYDRO_PUMP
-	db -1 ; end
-
-MrMimeEggMoves:
-	db FUTURE_SIGHT
-	db HYPNOSIS
-	db MIMIC
 	db -1 ; end
 
 ScytherEggMoves:
@@ -543,15 +459,6 @@ NatuEggMoves:
 	db STEEL_WING
 	db -1 ; end
 
-MareepEggMoves:
-	db THUNDERBOLT
-	db TAKE_DOWN
-	db BODY_SLAM
-	db SAFEGUARD
-	db SCREECH
-	db REFLECT
-	db -1 ; end
-
 MarillEggMoves:
 	db LIGHT_SCREEN
 	db PRESENT
@@ -598,14 +505,6 @@ WooperEggMoves:
 	db BODY_SLAM
 	db ANCIENTPOWER
 	db SAFEGUARD
-	db -1 ; end
-
-GirafarigEggMoves:
-	db TAKE_DOWN
-	db AMNESIA
-	db FORESIGHT
-	db FUTURE_SIGHT
-	db BEAT_UP
 	db -1 ; end
 
 PinecoEggMoves:
@@ -695,14 +594,6 @@ CorsolaEggMoves:
 	db AMNESIA
 	db -1 ; end
 
-RemoraidEggMoves:
-	db AURORA_BEAM
-	db OCTAZOOKA
-	db SUPERSONIC
-	db HAZE
-	db SCREECH
-	db -1 ; end
-
 DelibirdEggMoves:
 	db AURORA_BEAM
 	db QUICK_ATTACK
@@ -783,11 +674,11 @@ MiltankEggMoves:
 	db SEISMIC_TOSS
 	db -1 ; end
 
-LarvitarEggMoves:
-	db PURSUIT
-	db STOMP
+TropiusEggMoves:
+	db HEADBUTT
+	db SLAM
 	db OUTRAGE
-	db FOCUS_ENERGY
+	db LEECH_SEED
 	db ANCIENTPOWER
 	db -1 ; end
 
