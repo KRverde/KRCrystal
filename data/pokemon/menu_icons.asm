@@ -180,9 +180,9 @@ MonMenuIcons:
 	db ICON_BIRD        ; TOGETIC
 	db ICON_BIRD        ; NATU
 	db ICON_BIRD        ; XATU
-	db ICON_FOX         ; MAREEP
-	db ICON_MONSTER     ; FLAAFFY
-	db ICON_MONSTER     ; AMPHAROS
+	db ICON_VOLTORB     ; PORYGON-Z
+	db ICON_BIRD        ; TOGEKISS
+	db ICON_MONSTER     ; AMBIPOM
 	db ICON_ODDISH      ; BELLOSSOM
 	db ICON_JIGGLYPUFF  ; MARILL
 	db ICON_JIGGLYPUFF  ; AZUMARILL
@@ -204,7 +204,7 @@ MonMenuIcons:
 	db ICON_BLOB        ; GASSPING
 	db ICON_UNOWN       ; UNOWN
 	db ICON_GHOST       ; WOBBUFFET
-	db ICON_EQUINE      ; GIRAFARIG
+	db ICON_BUG         ; YANMEGA
 	db ICON_BUG         ; PINECO
 	db ICON_BUG         ; FORRETRESS
 	db ICON_SERPENT     ; DUNSPARCE
@@ -224,8 +224,8 @@ MonMenuIcons:
 	db ICON_EQUINE      ; SWINUB
 	db ICON_EQUINE      ; PILOSWINE
 	db ICON_SHELL       ; CORSOLA
-	db ICON_FISH        ; REMORAID
-	db ICON_FISH        ; OCTILLERY
+	db ICON_BUG         ; GLISCOR
+	db ICON_FOX         ; WEAVILE
 	db ICON_MONSTER     ; DELIBIRD
 	db ICON_FISH        ; MANTINE
 	db ICON_BIRD        ; SKARMORY
