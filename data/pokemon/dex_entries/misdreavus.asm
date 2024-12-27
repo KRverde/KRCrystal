@@ -1,10 +1,10 @@
 	db "GAS GIANT@" ; species name
 	dw 411, 200 ; height, weight
 
-	db   "Its body has lowered"
-	next "in density, causing"
-	next "it to expand greatly."
+	db   "Its body has lowe-"
+	next "red in density,"
+	next "causing it to exp-"
 
-	page "It seems to have"
-	next "its own small"
-	next "gravitational force.@"
+	page "and greatly. It"
+	next "has its own gravi-"
+	next "tional force.@"
