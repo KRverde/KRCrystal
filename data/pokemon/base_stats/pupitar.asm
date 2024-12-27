@@ -6,7 +6,7 @@
 	db GRASS, FLYING ; type
 	db 200 ; catch rate
 	db 169 ; base exp
-	db BERRY, NO_ITEM ; items
+	db BERRY, GOLD_BERRY ; items
 	db GENDER_F50 ; gender ratio
 	db 100 ; unknown 1
 	db 25 ; step cycles to hatch
