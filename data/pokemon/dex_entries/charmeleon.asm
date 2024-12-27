@@ -1,10 +1,10 @@
-	db "FLAME@" ; species name
-	dw 307, 420 ; height, weight
+	db "AXE@" ; species name
+	dw 511, 1960 ; height, weight
 
-	db   "If it becomes"
-	next "agitated during"
-	next "battle, it spouts"
+	db   "This #MON is a"
+	next "rough, crude, and"
+	next "violent sort. It"
 
-	page "intense flames,"
-	next "incinerating its"
-	next "surroundings.@"
+	page "swings around its"
+	next "large, heavy sto-"
+	next "ne axes to hunt.@"
