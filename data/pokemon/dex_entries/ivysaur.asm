@@ -1,10 +1,10 @@
-	db "SEED@" ; species name
-	dw 303, 290 ; height, weight
+	db "FRESH SNOW@" ; species name
+	dw 207, 570 ; height, weight
 
-	db   "The bulb on its"
-	next "back grows as it"
-	next "absorbs nutrients."
+	db   "It causes small"
+	next "ice crystals to"
+	next "form by lowering"
 
-	page "The bulb gives off"
-	next "a pleasant aroma"
-	next "when it blooms.@"
+	page "the temperature"
+	next "of the surrounding"
+	next "atmosphere.@"
