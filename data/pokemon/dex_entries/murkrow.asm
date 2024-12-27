@@ -5,6 +5,6 @@
 	next "with its cute"
 	next "appearance and"
 
-	page "quickly incapacitates"
-	next "them before consuming"
-	next "the prey whole.@"
+	page "quickly incapacit-"
+	next "ates them before"
+	next "swallowing whole.@"
