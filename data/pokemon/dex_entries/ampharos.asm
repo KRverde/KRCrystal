@@ -1,5 +1,5 @@
 	db "LONG TAIL@" ; species name
-	dw 311, 448 ; height, weight
+	dw 311, 450 ; height, weight
 
 	db   "Since its tails"
 	next "split in two, it"
