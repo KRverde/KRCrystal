@@ -5,8 +5,8 @@ JohtoWaterWildMons:
 	def_water_wildmons RUINS_OF_ALPH_OUTSIDE
 	db 2 percent ; encounter rate
 	db 15, KABUTO
-	db 20, KABUTO
 	db 20, OMANYTE
+	db 20, KABUTO
 	db 15, OMANYTE
 	end_water_wildmons
 
