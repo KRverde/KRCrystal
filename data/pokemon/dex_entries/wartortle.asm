@@ -1,10 +1,10 @@
-	db "TURTLE@" ; species name
-	dw 303, 500 ; height, weight
+	db "LICKING@" ; species name
+	dw 507, 3080 ; height, weight
 
-	db   "Its long, furry"
-	next "tail is a symbol"
-	next "of longevity,"
+	db   "It wraps things"
+	next "with its extensib-"
+	next "le tongue. Getting"
 
-	page "making it quite"
-	next "popular among"
-	next "older people.@"
+	page "too close will le-"
+	next "ave you soaked"
+	next "with drool.@"
