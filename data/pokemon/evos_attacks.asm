@@ -82,7 +82,7 @@ KleavorEvosAttacks:
 	db 12, PURSUIT
 	db 18, FALSE_SWIPE
 	db 24, AGILITY
-	db 30, ANCIENTPOWER
+	db 30, ROCK_THROW
 	db 36, SLASH
 	db 42, SWORDS_DANCE
 	db 48, DOUBLE_TEAM
