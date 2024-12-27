@@ -1,10 +1,10 @@
-	db "SEED@" ; species name
-	dw 204, 150 ; height, weight
+	db "VERDANT@" ; species name
+	dw 303, 560 ; height, weight
 
-	db   "While it is young,"
-	next "it uses the"
-	next "nutrients that are"
+	db   "When you see"
+	next "LEAFEON in a patch"
+	next "of sunshine,"
 
-	page "stored in the"
-	next "seeds on its back"
-	next "in order to grow.@"
+	page "you'll know it is"
+	next "using photosynthe-"
+	next "sis to clean air.@"
