@@ -2,9 +2,9 @@
 	dw 108, 250 ; height, weight
 
 	db   "It was released"
-	next "into the environment"
-	next "after being revived"
+	next "into the environm-"
+	next "ent after being"
 
-	page "causing changes to"
-	next "its physiology,"
-	next "such as a new tail.@"
+	page "revived causing"
+	next "changes to its"
+	next "physiology.@"
