@@ -1,10 +1,10 @@
-	db "TINYTURTLE@" ; species name
-	dw 108, 200 ; height, weight
+	db "MAGNET AREA@" ; species name
+	dw 311, 3970 ; height, weight
 
-	db   "When it feels"
-	next "threatened, it"
-	next "draws its legs"
+	db   "Exposure to a"
+	next "special magnetic"
+	next "field changed"
 
-	page "inside its shell"
-	next "and sprays water"
-	next "from its mouth.@"
+	page "MAGNETON's molecu-"
+	next "lar structure,"
+	next "making it evolve.@"
