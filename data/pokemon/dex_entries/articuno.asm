@@ -3,8 +3,8 @@
 
 	db   "Its body and arms"
 	next "have become much"
-	next "sturdier than that of"
+	next "sturdier than that"
 
-	page "HERACROSS. It is nearly"
-	next "three times as powerful"
-	next "in strength.@"
+	page "of HERACROSS. It's"
+	next "nearly three times"
+	next "more powerful.@"
