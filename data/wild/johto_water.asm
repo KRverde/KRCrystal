@@ -34,7 +34,7 @@ JohtoWaterWildMons:
 	db 2 percent ; encounter rate
 	db 25, SLOWPOKE
 	db 20, SLOWPOKE
-	db 10, SLOWPOKE
+	db 20, SLOWPOKE
 	end_water_wildmons
 
 	def_water_wildmons SLOWPOKE_WELL_B2F
