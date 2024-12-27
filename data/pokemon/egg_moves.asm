@@ -557,6 +557,7 @@ HeracrossEggMoves:
 	db HARDEN
 	db BIDE
 	db FLAIL
+	db ROCK_THROW
 	db -1 ; end
 
 SneaselEggMoves:
