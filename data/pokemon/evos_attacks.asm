@@ -2879,6 +2879,7 @@ ShuckleEvosAttacks:
 	db 14, ENCORE
 	db 23, SAFEGUARD
 	db 28, BIDE
+	db 32, ROCK_THROW
 	db 37, REST
 	db 0 ; no more level-up moves
 
