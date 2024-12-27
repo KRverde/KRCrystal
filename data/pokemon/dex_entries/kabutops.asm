@@ -3,8 +3,8 @@
 
 	db   "Its body is adept"
 	next "to swimming even"
-	next "against rough ocean"
+	next "against rough oce-"
 
-	page "currents. It's"
-	next "much more bug-like"
-	next "than its ancestors.@"
+	page "an currents. It's"
+	next "more bug-like than"
+	next "its ancestors.@"
