@@ -1,10 +1,10 @@
-	db "LIGHT@" ; species name
-	dw 407, 1360 ; height, weight
+	db "LONG TAIL@" ; species name
+	dw 311, 448 ; height, weight
 
-	db   "When it gets dark,"
-	next "the light from its"
-	next "bright, shiny tail"
+	db   "Since its tails"
+	next "split in two, it"
+	next "rarely uses its"
 
-	page "can be seen from"
-	next "far away on the"
-	next "ocean's surface.@"
+	page "real hands to do"
+	next "anything at all"
+	next "anymore.@"
