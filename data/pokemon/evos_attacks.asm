@@ -3344,6 +3344,7 @@ TropipodEvosAttacks:
 	db 41, SOLARBEAM
 	db 47, SYNTHESIS
 	db 54, DRAGONBREATH
+	db 67, OUTRAGE
 	db 0 ; no more level-up moves
 
 LugiaEvosAttacks:
