@@ -3,8 +3,8 @@
 
 	db   "It dwells in caves"
 	next "after its old"
-	next "habitat was occupied."
+	next "habitat was taken."
 
 	page "Eating Rock #MON"
-	next "allowed it to restore"
-	next "dormant genes.@"
+	next "allowed it to res-"
+	next "tore latent genes.@"
