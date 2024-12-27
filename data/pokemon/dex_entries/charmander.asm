@@ -1,10 +1,10 @@
-	db "LIZARD@" ; species name
-	dw 200, 190 ; height, weight
+	db "INTERTWINING@" ; species name
+	dw 303, 520 ; height, weight
 
-	db   "If it's healthy,"
-	next "the flame on the"
-	next "tip of its tail"
+	db   "It wraps its ribb-"
+	next "onlike feelers"
+	next "around the arm of"
 
-	page "will burn vigor-"
-	next "ously, even if it"
-	next "gets a bit wet.@"
+	page "its beloved train-"
+	next "er and walks with"
+	next "them.@"
