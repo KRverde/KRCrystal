@@ -1,10 +1,10 @@
-	db "FIRE HORSE@" ; species name
-	dw 303, 660 ; height, weight
+	db "LAND SNAKE@" ; species name
+	dw 1409, 1040 ; height, weight
 
-	db   "Training by"
-	next "jumping over grass"
-	next "that grows longer"
+	db   "It drives enemies"
+	next "out of its nest by"
+	next "sucking in enough"
 
-	page "every day has made"
-	next "it a world-class"
-	next "jumper.@"
+	page "air to fill its"
+	next "long, narrow lungs"
+	next "and blasts them.@"
