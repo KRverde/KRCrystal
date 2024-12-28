@@ -1,10 +1,10 @@
-	db "JET@" ; species name
-	dw 200, 260 ; height, weight
+	db "FANG SCORP@" ; species name
+	dw 607, 940 ; height, weight
 
-	db   "To escape from an"
-	next "attacker, it may"
-	next "shoot water out of"
+	db   "Its flight is sou-"
+	next "ndless. It uses"
+	next "its lengthy tail"
 
-	page "its mouth, then"
-	next "use that force to"
-	next "swim backward.@"
+	page "to carry off its"
+	next "prey, then finis-"
+	next "hes them off.@"
