@@ -1,10 +1,10 @@
-	db "FIRE HORSE@" ; species name
-	dw 507, 2090 ; height, weight
+	db "MUSHROOM@" ; species name
+	dw 306, 250 ; height, weight
 
-	db   "It just loves to"
-	next "gallop. The faster"
-	next "it goes, the long-"
+	db   "This #MON is the"
+	next "result of the spi-"
+	next "rit of PARASECT"
 
-	page "er the swaying"
-	next "flames of its mane"
-	next "will become.@"
+	page "regaining control"
+	next "of its body after"
+	next "the mushroom dies.@"
