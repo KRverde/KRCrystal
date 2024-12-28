@@ -1,10 +1,10 @@
-	db "TWIN BIRD@" ; species name
-	dw 407, 860 ; height, weight
+	db "BIG HORN@" ; species name
+	dw 511, 2090 ; height, weight
 
-	db   "It lives on a"
-	next "grassy plain where"
-	next "it can see a long"
+	db   "The black orbs on"
+	next "its horn shine as"
+	next "it erects invisi-"
 
-	page "way. If it sees an"
-	next "enemy, it runs"
-	next "away at 60 mph.@"
+	page "ble barriers. The"
+	next "fur around its ne-"
+	next "ck is very warm.@"
