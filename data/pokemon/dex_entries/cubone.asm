@@ -1,7 +1,7 @@
-	db "LONELY@" ; species name
-	dw 104, 140 ; height, weight
+	db "FALSE TREE@" ; species name
+	dw 511, 1260 ; height, weight
 
-	db   "It lost its mother"
+	db   ""
 	next "after its birth."
 	next "It wears its"
 
