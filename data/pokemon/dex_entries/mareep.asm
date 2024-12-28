@@ -1,10 +1,10 @@
-	db "WOOL@" ; species name
-	dw 200, 170 ; height, weight
+	db "VIRTUAL@" ; species name
+	dw 211, 750 ; height, weight
 
-	db   "It stores lots of"
-	next "air in its soft"
-	next "fur, allowing it"
+	db   "In an effort to"
+	next "upgrade PORYGON2's"
+	next "faculties, this"
 
-	page "to stay cool in"
-	next "summer and warm"
-	next "in winter.@"
+	page "#MON came to be."
+	next "Though it seems to"
+	next "behave oddly.@"
