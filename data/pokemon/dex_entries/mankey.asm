@@ -1,10 +1,10 @@
-	db "PIG MONKEY@" ; species name
-	dw 108, 620 ; height, weight
+	db "THUNDERBOLT@" ; species name
+	dw 511, 3060 ; height, weight
 
-	db   "It lives in groups"
-	next "in the treetops."
-	next "If it loses sight"
+	db   "It pushes the tips"
+	next "of its two tails"
+	next "against the foe,"
 
-	page "of its group, it"
-	next "becomes infuriated"
-	next "by its loneliness.@"
+	page "then lets loose"
+	next "with over 20,000"
+	next "volts of power.@"
