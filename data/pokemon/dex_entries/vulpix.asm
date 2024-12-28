@@ -1,10 +1,10 @@
-	db "FOX@" ; species name
-	dw 200, 220 ; height, weight
+	db "DRILL@" ; species name
+	dw 710, 6240 ; height, weight
 
-	db   "As its body grows"
-	next "larger, its six"
-	next "warm tails become"
+	db   "It can launch a"
+	next "rock held in its"
+	next "hand like a missi-"
 
-	page "more beautiful,"
-	next "with a more luxur-"
-	next "ious coat of fur.@"
+	page "le by tightening"
+	next "then expanding mu-"
+	next "scles instantly.@"
