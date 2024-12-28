@@ -1,10 +1,10 @@
-	db "FOX@" ; species name
-	dw 307, 440 ; height, weight
+	db "VINE@" ; species name
+	dw 607, 2840 ; height, weight
 
-	db   "It is said to live"
-	next "a thousand years,"
-	next "and each of its"
+	db   "Its arms are made"
+	next "of plants that bi-"
+	next "nd themselves to"
 
-	page "tails is loaded"
-	next "with supernatural"
-	next "powers.@"
+	page "things. They grow"
+	next "back right away if"
+	next "cut.@"
