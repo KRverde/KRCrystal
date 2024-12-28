@@ -1,10 +1,10 @@
-	db "TRIPLEBIRD@" ; species name
-	dw 511, 1880 ; height, weight
+	db "PEAT@" ; species name
+	dw 710, 6390 ; height, weight
 
-	db   "An enemy that"
-	next "takes its eyes off"
-	next "any of the three"
+	db   "It is said that"
+	next "exposure to the"
+	next "full moon triggers"
 
-	page "heads--even for a"
-	next "second--will get"
-	next "pecked severely.@"
+	page "this evolution."
+	next "It can control"
+	next "peat at will.@"
