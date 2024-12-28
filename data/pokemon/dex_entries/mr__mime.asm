@@ -1,10 +1,10 @@
-	db "BARRIER@" ; species name
-	dw 403, 1200 ; height, weight
+	db "TWIN TUSK@" ; species name
+	dw 802, 6410 ; height, weight
 
-	db   "It uses the"
-	next "mysterious"
-	next "power it has in"
+	db   "It flourished wor-"
+	next "ldwide during the"
+	next "ice age, but its"
 
-	page "its fingers to"
-	next "solidify air into"
-	next "an invisible wall.@"
+	page "population declin-"
+	next "ed when the masses"
+	next "of ice dwindled.@"
