@@ -1,10 +1,10 @@
-	db "WOOL@" ; species name
-	dw 207, 290 ; height, weight
+	db "JUBILEE@" ; species name
+	dw 411, 840 ; height, weight
 
-	db   "Because of its"
-	next "rubbery, electric-"
-	next "ity-resistant"
+	db   "Its shares many"
+	next "blessings with pe-"
+	next "ople who respect"
 
-	page "skin, it can store"
-	next "lots of electric-"
-	next "ity in its fur.@"
+	page "one another's rig-"
+	next "hts and avoid nee-"
+	next "dless strife.@"
