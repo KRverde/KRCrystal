@@ -3300,7 +3300,7 @@ SuicuneEvosAttacks:
 	db 71, HYDRO_PUMP
 	db 0 ; no more level-up moves
 
-LarvitarEvosAttacks:
+KelpiquusEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, BUBBLE
 	db 1, SMOKESCREEN
