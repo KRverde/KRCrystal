@@ -102,6 +102,7 @@ AlphabeticalPokedexOrder:
 	db KABUTOPS
 	db KADABRA
 	db KAKUNA
+	db KELPIQUUS
 	db KINGDRA
 	db KINGLER
 	db KLEAVOR
@@ -109,7 +110,6 @@ AlphabeticalPokedexOrder:
 	db KRABBY
 	db LANTURN
 	db LAPRAS
-	db LARVITAR
 	db LEAFEON
 	db LECTROLITE
 	db LEDIAN
