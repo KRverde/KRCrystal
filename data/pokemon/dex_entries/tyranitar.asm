@@ -1,10 +1,10 @@
-	db "ARMOR@" ; species name
-	dw 607, 4450 ; height, weight
+	db "FRUIT@" ; species name
+	dw 1207, 7600 ; height, weight
 
-	db   "In just one of its"
-	next "mighty hands, it"
-	next "has the power to"
+	db   "It has lost its"
+	next "ability to fly but"
+	next "in exchange produ-"
 
-	page "make the ground"
-	next "shake and moun-"
-	next "tains crumble.@"
+	page "ces much more"
+	next "fruit, and is very"
+	next "large yet gentle.@"
