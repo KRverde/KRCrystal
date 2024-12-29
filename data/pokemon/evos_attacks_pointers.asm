@@ -247,7 +247,7 @@ EvosAttacksPointers::
 	dw RaikouEvosAttacks
 	dw EnteiEvosAttacks
 	dw SuicuneEvosAttacks
-	dw LarvitarEvosAttacks
+	dw KelpiquusEvosAttacks
 	dw TropiusEvosAttacks
 	dw TropipodEvosAttacks
 	dw LugiaEvosAttacks
