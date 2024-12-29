@@ -247,7 +247,7 @@ MonMenuIcons:
 	db ICON_FOX         ; RAIKOU
 	db ICON_FOX         ; ENTEI
 	db ICON_FOX         ; SUICUNE
-	db ICON_EQUINE      ; LARVITAR
+	db ICON_EQUINE      ; KELPIQUUS
 	db ICON_ODDISH      ; TROPIUS
 	db ICON_ODDISH      ; TROPIPOD
 	db ICON_LUGIA       ; LUGIA
