@@ -1,10 +1,10 @@
-	db "PARENT@" ; species name
-	dw 703, 1760 ; height, weight
+	db "STAG BEETLE@" ; species name
+	dw 511, 1510 ; height, weight
 
-	db   "To avoid"
-	next "crushing the"
-	next "baby it carries in"
+	db   "It has sprouted"
+	next "wings which allow"
+	next "it to concentrate"
 
-	page "its pouch, it"
-	next "always sleeps"
-	next "standing up.@"
+	page "wind between its"
+	next "horns, producing"
+	next "strong gales.@"
