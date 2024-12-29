@@ -1,10 +1,10 @@
-	db "BONEKEEPER@" ; species name
-	dw 303, 990 ; height, weight
+	db "HYPNOSIS@" ; species name
+	dw 603, 2210 ; height, weight
 
-	db   "Somewhere in the"
-	next "world is a ceme-"
-	next "tery just for"
+	db   "Cautionary tales"
+	next "exist of this #MON"
+	next "who is said to"
 
-	page "MAROWAK. It gets"
-	next "its bones from"
-	next "those graves.@"
+	page "take those with"
+	next "nightmares away"
+	next "and never return.@"
