@@ -1,5 +1,5 @@
 	db "FRUIT@" ; species name
-	dw 1207, 4400 ; height, weight
+	dw 1207, 6600 ; height, weight
 
 	db   "It has lost its"
 	next "ability to fly but"
