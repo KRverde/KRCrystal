@@ -1,4 +1,4 @@
-	db "FRUIT@" ; species name
+	db "TROPICAL@" ; species name
 	dw 1207, 6600 ; height, weight
 
 	db   "It has lost its"
