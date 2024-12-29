@@ -203,6 +203,7 @@ NewPokedexOrder:
 	db HORSEA
 	db SEADRA
 	db KINGDRA
+	db KELPIQUUS
 	db GLIGAR
 	db GLISCOR
 	db DELIBIRD
@@ -247,7 +248,6 @@ NewPokedexOrder:
 	db DRATINI
 	db DRAGONAIR
 	db DRAGONITE
-	db LARVITAR
 	db TROPIUS
 	db TROPIPOD
 	db LUGIA
