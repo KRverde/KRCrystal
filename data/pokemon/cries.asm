@@ -43,7 +43,7 @@ PokemonCries::
 	mon_cry CRY_CLEFAIRY,    204,  129 ; CLEFAIRY
 	mon_cry CRY_CLEFAIRY,    170,  160 ; CLEFABLE
 	mon_cry CRY_RHYDON,        0,  383 ; RHYPERIOR
-	mon_cry CRY_VULPIX,      136,  224 ; NINETALES
+	mon_cry CRY_GOLEM,         0,  383 ; TANGROWTH
 	mon_cry CRY_PIDGEY,      255,  181 ; JIGGLYPUFF
 	mon_cry CRY_PIDGEY,      104,  224 ; WIGGLYTUFF
 	mon_cry CRY_SQUIRTLE,    224,  256 ; ZUBAT
