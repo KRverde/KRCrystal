@@ -12,7 +12,7 @@ PokemonCries::
 	mon_cry CRY_CHARMANDER,   96,  192 ; CHARMANDER
 	mon_cry CRY_CHARMANDER,   32,  192 ; CHARMELEON
 	mon_cry CRY_CHARMANDER,    0,  256 ; CHARIZARD
-	mon_cry CRY_METAPOD,      12,  343 ; MAGNEZONE
+	mon_cry CRY_METAPOD,     -12,  343 ; MAGNEZONE
 	mon_cry CRY_SEEL,          0,  383 ; LICKILICKY
 	mon_cry CRY_BLASTOISE,     0,  256 ; BLASTOISE
 	mon_cry CRY_CATERPIE,    128,  160 ; CATERPIE
@@ -61,8 +61,8 @@ PokemonCries::
 	mon_cry CRY_CLEFAIRY,    153,  383 ; PERSIAN
 	mon_cry CRY_PSYDUCK,      32,  224 ; PSYDUCK
 	mon_cry CRY_PSYDUCK,     255,  192 ; GOLDUCK
-	mon_cry CRY_VOLTORB,      43,  383 ; ELECTIVIRE
-	mon_cry CRY_CHARMANDER,  155,  176 ; MAGMORTAR
+	mon_cry CRY_VOLTORB,     -43,  383 ; ELECTIVIRE
+	mon_cry CRY_CHARMANDER, -155,  176 ; MAGMORTAR
 	mon_cry CRY_GROWLITHE,    32,  192 ; GROWLITHE
 	mon_cry CRY_WEEDLE,        0,  256 ; ARCANINE
 	mon_cry CRY_PIDGEY,      255,  383 ; POLIWAG
@@ -83,7 +83,7 @@ PokemonCries::
 	mon_cry CRY_VULPIX,        0,  256 ; GRAVELER
 	mon_cry CRY_GOLEM,       224,  192 ; GOLEM
 	mon_cry CRY_WEEPINBELL,    0,  256 ; PONYTA
-	mon_cry CRY_PARAS,        99,  413 ; PERISHROOM
+	mon_cry CRY_PARAS,       -99,  413 ; PERISHROOM
 	mon_cry CRY_SLOWPOKE,      0,  256 ; SLOWPOKE
 	mon_cry CRY_GROWLITHE,     0,  256 ; SLOWBRO
 	mon_cry CRY_METAPOD,     128,  224 ; MAGNEMITE
@@ -110,7 +110,7 @@ PokemonCries::
 	mon_cry CRY_DIGLETT,       0,  256 ; EXEGGCUTE
 	mon_cry CRY_DROWZEE,       0,  256 ; EXEGGUTOR
 	mon_cry CRY_CLEFAIRY,      0,  256 ; CUBONE
-	mon_cry CRY_DROWZEE,      36,  256 ; DORMARE
+	mon_cry CRY_DROWZEE,     -36,  256 ; DORMARE
 	mon_cry CRY_GOLEM,       128,  320 ; HITMONLEE
 	mon_cry CRY_SEEL,        238,  320 ; HITMONCHAN
 	mon_cry CRY_SEEL,          0,  256 ; LICKITUNG
@@ -150,7 +150,7 @@ PokemonCries::
 	mon_cry CRY_VILEPLUME,    32,  368 ; AERODACTYL
 	mon_cry CRY_GRIMER,       85,  129 ; SNORLAX
 	mon_cry CRY_RAICHU,      128,  192 ; ARTICUNO
-	mon_cry CRY_VOLTORB,      98,  320 ; LECTROLITE
+	mon_cry CRY_VOLTORB,     -98,  320 ; LECTROLITE
 	mon_cry CRY_RAICHU,      248,  192 ; MOLTRES
 	mon_cry CRY_BULBASAUR,    96,  192 ; DRATINI
 	mon_cry CRY_BULBASAUR,    64,  256 ; DRAGONAIR
@@ -205,7 +205,7 @@ PokemonCries::
 	mon_cry CRY_VENONAT,    -233,  240 ; UMBREON
 	mon_cry CRY_WEEPINBELL,  242,  142 ; BELLRAUNE
 	mon_cry CRY_SLOWKING,    260,  512 ; SLOWKING
-	mon_cry CRY_GOLEM,       180,  383 ; GASSPING
+	mon_cry CRY_GOLEM,      -180,  383 ; GASSPING
 	mon_cry CRY_HOOTHOOT,    354,  256 ; UNOWN
 	mon_cry CRY_AMPHAROS,    635,  324 ; WOBBUFFET
 	mon_cry CRY_GIRAFARIG,    65,  512 ; GIRAFARIG
