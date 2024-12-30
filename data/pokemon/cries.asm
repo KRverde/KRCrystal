@@ -205,7 +205,7 @@ PokemonCries::
 	mon_cry CRY_VENONAT,    -233,  240 ; UMBREON
 	mon_cry CRY_WEEPINBELL,  242,  142 ; BELLRAUNE
 	mon_cry CRY_SLOWKING,    260,  512 ; SLOWKING
-	mon_cry CRY_GOLEM,       314,  512 ; GASSPING
+	mon_cry CRY_GOLEM,       180,  383 ; GASSPING
 	mon_cry CRY_HOOTHOOT,    354,  256 ; UNOWN
 	mon_cry CRY_AMPHAROS,    635,  324 ; WOBBUFFET
 	mon_cry CRY_GIRAFARIG,    65,  512 ; GIRAFARIG
