@@ -61,21 +61,21 @@ KantoGrassWildMons:
 	def_grass_wildmons ROCK_TUNNEL_1F
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
-	db 30, CUBONE
+	db 30, GEODUDE
 	db 31, GEODUDE
 	db 32, MACHOP
 	db 32, ZUBAT
 	db 35, MACHOKE
-	db 32, MAROWAK
-	db 32, MAROWAK
+	db 32, GRAVELER
+	db 32, GRAVELER
 	; day
-	db 30, CUBONE
+	db 30, GEODUDE
 	db 31, GEODUDE
 	db 32, MACHOP
 	db 32, ZUBAT
 	db 35, MACHOKE
-	db 32, MAROWAK
-	db 32, MAROWAK
+	db 32, GRAVELER
+	db 32, GRAVELER
 	; nite
 	db 32, ZUBAT
 	db 31, GEODUDE
@@ -89,21 +89,21 @@ KantoGrassWildMons:
 	def_grass_wildmons ROCK_TUNNEL_B1F
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
-	db 32, CUBONE
+	db 32, GEODUDE
 	db 34, GEODUDE
 	db 36, ONIX
 	db 32, ZUBAT
-	db 35, MAROWAK
-	db 35, KANGASKHAN
-	db 35, KANGASKHAN
+	db 35, GOLBAT
+	db 35, GRAVELER
+	db 35, STEELIX
 	; day
-	db 32, CUBONE
+	db 32, GEODUDE
 	db 34, GEODUDE
 	db 36, ONIX
 	db 32, ZUBAT
-	db 35, MAROWAK
-	db 35, KANGASKHAN
-	db 35, KANGASKHAN
+	db 35, GOLBAT
+	db 35, GRAVELER
+	db 35, STEELIX
 	; nite
 	db 32, ZUBAT
 	db 34, GEODUDE
@@ -111,7 +111,7 @@ KantoGrassWildMons:
 	db 35, ZUBAT
 	db 35, HAUNTER
 	db 35, GOLBAT
-	db 35, GOLBAT
+	db 35, STEELIX
 	end_grass_wildmons
 
 	def_grass_wildmons VICTORY_ROAD
@@ -145,29 +145,29 @@ KantoGrassWildMons:
 	def_grass_wildmons TOHJO_FALLS
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
-	db 22, ZUBAT
-	db 22, RATICATE
-	db 24, GOLBAT
-	db 21, SLOWPOKE
-	db 20, RATTATA
-	db 23, SLOWPOKE
-	db 23, SLOWPOKE
+	db 32, ZUBAT
+	db 32, RATICATE
+	db 34, GOLBAT
+	db 31, SLOWPOKE
+	db 30, RATTATA
+	db 33, SLOWPOKE
+	db 33, SLOWPOKE
 	; day
-	db 22, ZUBAT
-	db 22, RATICATE
-	db 24, GOLBAT
-	db 21, SLOWPOKE
-	db 20, RATTATA
-	db 23, SLOWPOKE
-	db 23, SLOWPOKE
+	db 32, ZUBAT
+	db 32, RATICATE
+	db 34, GOLBAT
+	db 31, SLOWPOKE
+	db 30, RATTATA
+	db 33, SLOWPOKE
+	db 33, SLOWPOKE
 	; nite
-	db 22, ZUBAT
-	db 22, RATICATE
-	db 24, GOLBAT
-	db 21, SLOWPOKE
-	db 20, RATTATA
-	db 23, SLOWPOKE
-	db 23, SLOWPOKE
+	db 32, ZUBAT
+	db 32, RATICATE
+	db 34, GOLBAT
+	db 31, SLOWPOKE
+	db 30, RATTATA
+	db 33, SLOWPOKE
+	db 33, SLOWPOKE
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_1
