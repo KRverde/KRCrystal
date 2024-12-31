@@ -252,8 +252,8 @@ PokemonCries::
 	mon_cry CRY_ENTEI,         0,  416 ; ENTEI
 	mon_cry CRY_MAGCARGO,      0,  384 ; SUICUNE
 	mon_cry CRY_SLUGMA,      663,  306 ; KELPIQUUS
-	mon_cry CRY_SPINARAK,   -475,  336 ; PUPITAR
-	mon_cry CRY_RAIKOU,     -256,  384 ; TYRANITAR
+	mon_cry CRY_CHIKORITA,  -683,  572 ; TROPIUS
+	mon_cry CRY_CHIKORITA,  -883,  642 ; TROPIPOD
 	mon_cry CRY_TYPHLOSION,    0,  256 ; LUGIA
 	mon_cry CRY_AIPOM,         0,  384 ; HO_OH
 	mon_cry CRY_ENTEI,       330,  273 ; CELEBI
