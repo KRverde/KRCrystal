@@ -151,7 +151,7 @@ PokemonCries::
 	mon_cry CRY_GRIMER,       85,  129 ; SNORLAX
 	mon_cry CRY_AMPHAROS,    -53,  254 ; HERCULASH
 	mon_cry CRY_VOLTORB,     -98,  320 ; LECTROLITE
-	mon_cry CRY_RAICHU,      248,  192 ; MOLTRES
+	mon_cry CRY_MAGCARGO,   -625,  578 ; WHELKANO
 	mon_cry CRY_BULBASAUR,    96,  192 ; DRATINI
 	mon_cry CRY_BULBASAUR,    64,  256 ; DRAGONAIR
 	mon_cry CRY_BULBASAUR,    60,  320 ; DRAGONITE
