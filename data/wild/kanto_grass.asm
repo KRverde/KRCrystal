@@ -402,16 +402,16 @@ KantoGrassWildMons:
 	db 35, RATICATE
 	db 35, FEAROW
 	db 35, FEAROW
-	db 38, MAROWAK
-	db 38, MAROWAK
+	db 38, SANDSLASH
+	db 38, SANDSLASH
 	; day
 	db 35, RATTATA
 	db 35, SPEAROW
 	db 35, RATICATE
 	db 35, FEAROW
 	db 35, FEAROW
-	db 38, MAROWAK
-	db 38, MAROWAK
+	db 38, SANDSLASH
+	db 38, SANDSLASH
 	; nite
 	db 35, RATTATA
 	db 35, VENONAT
@@ -653,17 +653,17 @@ KantoGrassWildMons:
 	db 45, RATTATA
 	db 45, TANGELA
 	db 40, RATICATE
-	db 50, MR__MIME
-	db 48, MR__MIME
-	db 48, MR__MIME
+	db 50, TANGELA
+	db 48, TANGELA
+	db 48, TANGROWTH
 	; day
 	db 50, TANGELA
 	db 45, RATTATA
 	db 55, TANGELA
 	db 40, RATICATE
-	db 48, MR__MIME
-	db 50, MR__MIME
-	db 50, MR__MIME
+	db 48, TANGELA
+	db 50, TANGELA
+	db 50, TANGROWTH
 	; nite
 	db 50, TANGELA
 	db 45, RATTATA
@@ -671,7 +671,7 @@ KantoGrassWildMons:
 	db 40, RATICATE
 	db 50, TANGELA
 	db 48, TANGELA
-	db 48, TANGELA
+	db 48, TANGROWTH
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_22
@@ -680,7 +680,7 @@ KantoGrassWildMons:
 	db 23, RATTATA
 	db 23, SPEAROW
 	db 25, SPEAROW
-	db 24, DODUO
+	db 24, SPEAROW
 	db 26, GROWLITHE
 	db 27, FEAROW
 	db 27, FEAROW
@@ -688,7 +688,7 @@ KantoGrassWildMons:
 	db 23, RATTATA
 	db 23, SPEAROW
 	db 25, SPEAROW
-	db 24, DODUO
+	db 24, SPEAROW
 	db 26, GROWLITHE
 	db 27, FEAROW
 	db 27, FEAROW
@@ -761,77 +761,77 @@ KantoGrassWildMons:
 	def_grass_wildmons ROUTE_26
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 48, DODUO
-	db 48, SANDSLASH
-	db 42, PONYTA
-	db 40, RATICATE
-	db 40, DODUO
-	db 40, ARBOK
-	db 40, ARBOK
+	db 28, PIDGEOTTO
+	db 28, SANDSLASH
+	db 32, GROWLITE
+	db 30, RATICATE
+	db 30, PIDGEOTTO
+	db 30, ARBOK
+	db 30, ARBOK
 	; day
-	db 48, DODUO
-	db 48, SANDSLASH
-	db 52, PONYTA
-	db 50, RATICATE
-	db 50, DODUO
-	db 50, ARBOK
-	db 50, ARBOK
+	db 28, PIDGEOTTO
+	db 28, SANDSLASH
+	db 32, GROWLITHE
+	db 30, RATICATE
+	db 30, PIDGEOTTO
+	db 30, ARBOK
+	db 30, ARBOK
 	; nite
-	db 48, NOCTOWL
-	db 48, RATICATE
-	db 52, NOCTOWL
-	db 50, RATICATE
-	db 50, QUAGSIRE
-	db 50, QUAGSIRE
-	db 50, QUAGSIRE
+	db 28, NOCTOWL
+	db 28, RATICATE
+	db 32, NOCTOWL
+	db 30, RATICATE
+	db 30, QUAGSIRE
+	db 30, QUAGSIRE
+	db 30, QUAGSIRE
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_27
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 48, DODUO
-	db 48, ARBOK
-	db 50, RATICATE
-	db 50, DODUO
-	db 52, PONYTA
-	db 50, DODRIO
-	db 50, DODRIO
+	db 28, PIDGEOTTO
+	db 28, ARBOK
+	db 30, RATICATE
+	db 30, PIDGEOTTO
+	db 32, GROWLITHE
+	db 30, PIDGEOT
+	db 30, PIDGEOT
 	; day
-	db 48, DODUO
-	db 48, ARBOK
-	db 50, RATICATE
-	db 50, DODUO
-	db 52, PONYTA
-	db 50, DODRIO
-	db 50, DODRIO
+	db 28, PIDGEOTTO
+	db 28, ARBOK
+	db 30, RATICATE
+	db 30, PIDGEOTTO
+	db 32, GROWLITHE
+	db 30, PIDGEOT
+	db 30, PIDGEOT
 	; nite
-	db 48, QUAGSIRE
-	db 48, NOCTOWL
-	db 50, RATICATE
-	db 50, QUAGSIRE
-	db 52, NOCTOWL
-	db 52, NOCTOWL
-	db 52, NOCTOWL
+	db 28, QUAGSIRE
+	db 28, NOCTOWL
+	db 30, RATICATE
+	db 30, QUAGSIRE
+	db 32, NOCTOWL
+	db 32, NOCTOWL
+	db 32, NOCTOWL
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_28
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 49, TANGELA
-	db 50, PONYTA
-	db 50, RAPIDASH
+	db 50, GROWLITHE
+	db 50, ARCANINE
 	db 52, ARBOK
-	db 51, DODUO
-	db 53, DODRIO
-	db 53, DODRIO
+	db 51, PIDGEOTTO
+	db 53, PIDGEOT
+	db 53, PIDGEOT
 	; day
 	db 49, TANGELA
-	db 50, PONYTA
-	db 50, RAPIDASH
+	db 50, GROWLITHE
+	db 50, ARCANINE
 	db 52, ARBOK
-	db 51, DODUO
-	db 53, DODRIO
-	db 53, DODRIO
+	db 51, PIDGEOTTO
+	db 53, PIDGEOT
+	db 53, PIDGEOT
 	; nite
 	db 49, TANGELA
 	db 50, POLIWHIRL
