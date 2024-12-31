@@ -9,7 +9,7 @@ PokemonCries::
 	mon_cry CRY_AIPOM,       162,  160 ; LEAFEON
 	mon_cry CRY_VENONAT,     161,  256 ; GLACEON
 	mon_cry CRY_BULBASAUR,     0,  320 ; VENUSAUR
-	mon_cry CRY_CHARMANDER,   96,  192 ; CHARMANDER
+	mon_cry CRY_TOGEPI,      216,  356 ; SYLVEON
 	mon_cry CRY_CATERPIE,   -200,  356 ; KLEAVOR
 	mon_cry CRY_CHARMANDER,    0,  256 ; CHARIZARD
 	mon_cry CRY_METAPOD,     -12,  343 ; MAGNEZONE
