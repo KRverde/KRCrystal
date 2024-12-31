@@ -120,7 +120,7 @@ PokemonCries::
 	mon_cry CRY_RHYDON,        0,  256 ; RHYDON
 	mon_cry CRY_PIDGEOTTO,    10,  320 ; CHANSEY
 	mon_cry CRY_GOLEM,         0,  256 ; TANGELA
-	mon_cry CRY_KANGASKHAN,    0,  256 ; KANGASKHAN
+	mon_cry CRY_AMPHAROS,    -50,  402 ; CLENCHIR
 	mon_cry CRY_CLEFAIRY,    153,  144 ; HORSEA
 	mon_cry CRY_CLEFAIRY,     60,  129 ; SEADRA
 	mon_cry CRY_CATERPIE,    128,  192 ; GOLDEEN
