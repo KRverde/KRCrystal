@@ -2,13 +2,13 @@ EggMovePointers::
 	table_width 2, EggMovePointers
 	dw NoEggMoves
 	dw NoEggMoves
+	dw VenusaurEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
+	dw CharizardEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw NoEggMoves
-	dw NoEggMoves
-	dw NoEggMoves
+	dw BlastoiseEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
