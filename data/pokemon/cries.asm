@@ -149,7 +149,7 @@ PokemonCries::
 	mon_cry CRY_FEAROW,      238,  129 ; KABUTOPS
 	mon_cry CRY_VILEPLUME,    32,  368 ; AERODACTYL
 	mon_cry CRY_GRIMER,       85,  129 ; SNORLAX
-	mon_cry CRY_RAICHU,      128,  192 ; ARTICUNO
+	mon_cry CRY_AMPHAROS,    -53,  254 ; HERCULASH
 	mon_cry CRY_VOLTORB,     -98,  320 ; LECTROLITE
 	mon_cry CRY_RAICHU,      248,  192 ; MOLTRES
 	mon_cry CRY_BULBASAUR,    96,  192 ; DRATINI
