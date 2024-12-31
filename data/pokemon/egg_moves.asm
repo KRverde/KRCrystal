@@ -10,6 +10,33 @@ SECTION "Egg Moves", ROMX
 
 INCLUDE "data/pokemon/egg_move_pointers.asm"
 
+VenusaurEggMoves:
+	db CHARM
+	db LIGHT_SCREEN
+	db PETAL_DANCE
+	db RAZOR_WIND
+	db SAFEGUARD
+	db SKULL_BASH
+	db -1 ; end
+
+CharizardEggMoves:
+	db ANCIENTPOWER
+	db BEAT_UP
+	db BELLY_DRUM
+	db BITE
+	db OUTRAGE
+	db ROCK_SLIDE
+	db -1 ; end
+
+BlastoiseEggMoves:
+	db CONFUSION
+	db FLAIL
+	db FORESIGHT
+	db HAZE
+	db MIRROR_COAT
+	db MIST
+	db -1 ; end
+
 PidgeyEggMoves:
 	db PURSUIT
 	db FAINT_ATTACK
