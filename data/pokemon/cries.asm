@@ -109,7 +109,7 @@ PokemonCries::
 	mon_cry CRY_VOLTORB,     168,  272 ; ELECTRODE
 	mon_cry CRY_DIGLETT,       0,  256 ; EXEGGCUTE
 	mon_cry CRY_DROWZEE,       0,  256 ; EXEGGUTOR
-	mon_cry CRY_CLEFAIRY,      0,  256 ; CUBONE
+	mon_cry CRY_CLEFFA,     4004,  484 ; LYPRESS
 	mon_cry CRY_DROWZEE,     -36,  256 ; DORMARE
 	mon_cry CRY_GOLEM,       128,  320 ; HITMONLEE
 	mon_cry CRY_SEEL,        238,  320 ; HITMONCHAN
