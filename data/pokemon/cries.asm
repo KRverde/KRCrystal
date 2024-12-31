@@ -208,7 +208,7 @@ PokemonCries::
 	mon_cry CRY_GOLEM,      -180,  383 ; GASSPING
 	mon_cry CRY_HOOTHOOT,    354,  256 ; UNOWN
 	mon_cry CRY_AMPHAROS,    635,  324 ; WOBBUFFET
-	mon_cry CRY_GIRAFARIG,    65,  512 ; GIRAFARIG
+	mon_cry CRY_TOTODILE,    -49,  256 ; YANMEGA
 	mon_cry CRY_SLOWKING,    128,  256 ; PINECO
 	mon_cry CRY_SLOWKING,      0,  384 ; FORRETRESS
 	mon_cry CRY_DUNSPARCE,   452,  256 ; DUNSPARCE
