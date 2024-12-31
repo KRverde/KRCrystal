@@ -229,7 +229,7 @@ PokemonCries::
 	mon_cry CRY_MAGCARGO,   -265,  256 ; PILOSWINE
 	mon_cry CRY_MAGCARGO,    161,  232 ; CORSOLA
 	mon_cry CRY_GLIGAR,     -458,  356 ; GLISCOR
-	mon_cry CRY_TOTODILE,      0,  384 ; OCTILLERY
+	mon_cry CRY_WOOPER,      -83,  205 ; WEAVILE
 	mon_cry CRY_TEDDIURSA,     2,  106 ; DELIBIRD
 	mon_cry CRY_MANTINE,    -190,  240 ; MANTINE
 	mon_cry CRY_AMPHAROS,   2217,  384 ; SKARMORY
