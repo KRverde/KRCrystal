@@ -200,7 +200,7 @@ SlowkingAnimation:   INCLUDE "gfx/pokemon/slowking/anim.asm"
 MisdreavusAnimation: 
 UnownAnimation:      INCLUDE "gfx/pokemon/unown/anim.asm"
 WobbuffetAnimation:  INCLUDE "gfx/pokemon/wobbuffet/anim.asm"
-GirafarigAnimation:  INCLUDE "gfx/pokemon/girafarig/anim.asm"
+GirafarigAnimation:  
 PinecoAnimation:     INCLUDE "gfx/pokemon/pineco/anim.asm"
 ForretressAnimation: INCLUDE "gfx/pokemon/forretress/anim.asm"
 DunsparceAnimation:  INCLUDE "gfx/pokemon/dunsparce/anim.asm"
